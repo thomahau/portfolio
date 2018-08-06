@@ -1,5 +1,6 @@
 body {
-  font-family: 'Roboto Mono', monospace;
+  /* font-family: 'Roboto Mono', monospace; */
+  font-family: 'Roboto', monospace;
   font-size: 16px;
   background-color: #fefefe;
   color: #333;
@@ -20,11 +21,16 @@ h1 {
 }
 
 h1,
+.h1-shortened,
 h2 {
-  font-size: 40px;
+  font-size: 46px;
   font-weight: 700;
   margin: 0;
   padding: 0 10px;
+}
+
+.h1-shortened {
+  display: none;
 }
 
 nav {
@@ -45,9 +51,8 @@ nav a:last-child {
   border: none;
 }
 
-p a {
-  background-color: yellow;
-  text-decoration: none;
+p a,
+ul a {
   color: #333;
 }
 
@@ -93,7 +98,7 @@ section img {
 
   .navigation-wrapper {
     width: 13%;
-    height: 20vh;
+    height: 20.75vh;
     position: sticky;
     top: 9px;
   }
@@ -103,7 +108,13 @@ section img {
   }
 
   h1 {
+    display: none;
+  }
+
+  .h1-shortened {
+    display: block;
     text-align: center;
+    border-bottom: 3px solid black;
   }
 
   nav {
@@ -118,6 +129,7 @@ section img {
   }
 
   h2::after {
-    content: '\00a0/////////////////////////////////////';
+    content: '\00a0/////////////////////////////////////////';
+    letter-spacing: 9px;
   }
 }
