@@ -5,9 +5,11 @@ const markdown = require('metalsmith-markdown');
 const layouts = require('metalsmith-layouts');
 // const handlebars = require('handlebars');
 const discoverPartials = require('metalsmith-discover-partials');
-const collections = require('metalsmith-collections');
+// const collections = require('metalsmith-collections');
 // const permalinks = require('metalsmith-permalinks');
 const assets = require('metalsmith-assets');
+// const concat = require('metalsmith-concat');
+// const cleanCSS = require('metalsmith-clean-css');
 const serve = require('metalsmith-serve');
 const watch = require('metalsmith-watch');
 
