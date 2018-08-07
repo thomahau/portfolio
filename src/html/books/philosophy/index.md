@@ -11,6 +11,8 @@ wordpress_id: 115
 
 [Stoic Exercises and Practices](/books/philosophy/stoic-exercises-and-practices/)
 
+---
+
 [A Guide to the Good Life: The Ancient Art of Stoic Joy - by William B. Irvine](/books/philosophy/a-guide-to-the-good-life/)
 
 [A Philosopher's Notes: On Optimal Living, Creating an Authentically Awesome Life and Other Such Goodness - by Brian Johnson](/books/philosophy/a-philosophers-notes/)

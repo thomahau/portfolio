@@ -2,7 +2,7 @@
 author: ugh
 comments: false
 date: 2017-04-25 08:19:58+00:00
-layout: page
+layout: book.hbs
 link: https://fluidself.org/books/self-help/models/
 slug: models
 title: 'Models: Attract Women Through Honesty - by Mark Manson'
@@ -10,256 +10,215 @@ wordpress_id: 1126
 ---
 
 In surveys among literally tens of thousands of women, across all cultures, ethnicities, age groups, and socio-economic standing, and even time periods, there's one universal quality in men that they all find desirable: social status and access to resources.
- 
+
 These are the three tenants of being a high status and a highly attractive man: treat others well, be treated well by others, and treat yourself well.
- 
+
 The new conclusion is that female arousal is somewhat narcissistic in nature. Women are turned on by being wanted, by being desired. Suddenly, seemingly disconnected events that arouse women--a romantic marriage proposal in one instance, and a rape fantasy in another--make sense. Both indicate an extreme display of desire in her by a man.
- 
+
 It has slowly been discovered over the past five years or so within the men's dating advice industry, that the more physical assertiveness you pursue a woman with, the more aroused she becomes--sometimes even if she wasn't interested in you to begin with. Your bold and aggressive pursuit of her often turns her on to the point where she comes around and wants to get to know you
- 
+
 Ideally, two emotionally healthy individuals will begin a relationship both with low investments in one another and they will steadily let the investments deepens as the relationship grows. In a healthy relationship, the gap between investment between the two parties would never grow too far apart and the man would never become more invested than the woman. It may still irk some people's political correctness bone when we say, "the man would never become more invested than the woman," but remember, a woman unconsciously bases her evaluation of a man's fitness and status by how little or much he's affected by the emotions and intentions of those around him, particularly her. Obviously if he's in a relationship with her, he should be affected by her, but never more than she is by him. The minute he let's her dominate him emotionally, he demonstrates a lack of status. He's no longer dependable. He loses his ability to make her feel secure. And his attractiveness slowly slips out the window.
- 
+
 Seduction is the process in which a man induces a woman to become more highly invested in him than he is in her. Sex is the side-effect of this process.
- 
+
 Stop looking at communication as the surface information and instead pay attention to the emotions and motivations behind what's said. That's where all of the meaning is.
- 
+
 Remember, being non-needy means that your emotions and motivations are less affected by her than hers are by you. When you lavish gifts and praise onto a woman who has not done anything to earn it, you are sub-communicating a desperate need for her attention and validation -- a willingness to sacrifice your self-respect and wealth to win over her affection. It demonstrates a willingness to alter yourself for her to greater degrees than she's willing to alter herself for you. Remember, this is the definition of neediness and being unattractive
- 
+
 A non-needy man does not seek to impose himself on the boundaries of others, he's merely interested in maintaining his own boundaries. The difference is that if a woman says something offensive, a Fake Alpha will berate her and try to get her to change her mind, whereas a genuinely non-needy man will simply make it clear that he found what she said offensive and will not tolerate it again. How she responds is her choice
- 
+
 Your ability and willingness to establish boundaries is inversely proportional to how needy you are. Men who are needy and lack vulnerability will keep their boundaries loose and open, inviting manipulation and other people to walk over them. This is because they are more than willing to alter themselves in order to receive validation from the women they meet. Men who are not needy establish strict boundaries because they value their own time and happiness more than receiving the attention from a woman. They also see no reason to trample over other people's boundaries. When it comes to making yourself more vulnerable and less needy, the first step is often to begin establishing your own boundaries. Learn how to say no to people, particularly women. Start having opinions on what you like and don't like, what you'll tolerate and won't tolerate. Be honest with yourself. Painfully honest. And then be painfully honest with her.
- 
+
 Incompatibility is a fact of life. No matter how you behave or what you're into, the majority of women out there at any given time are simply not going to be interested or emotionally available. Our job is to not attract every woman, but to screen for women with high potential of being attracted to us. The reality of incompatibility defines our entire strategy of dating women. To base our strategy on anything else is inefficient at best and downright damaging at worst. The world is what it is, it's our job to simply present ourselves as boldly and clearly to it as possible, accept the reactions and move on the opportunities. Anything else is a fool's errand.
- 
+
 The goal with Neutral women is to polarize them through your behavior. This may mean being more aggressive. It may mean flirting with them or teasing them. It may mean asking her to dance or asking her on a date. Whatever it is, the goal with Neutral women is to take an action that forces her to make a decision about how she feels about you. Which side she goes to is less important than actually taking action and forcing her to no longer be neutral. And remember, showing your desire arouses women. Showing neediness turns them off. So it all comes down to how you show them your desire. It comes down to how you polarize them. This, in a nutshell, is what a guy with "game" is.
- 
+
 You must indicate some sort of sexual interest early on. Otherwise, the longer you wait, the harder it gets and the more likely she will become unreceptive to you.
- 
+
 Neutral women are where so-called "game" comes into play. Having good game means you can take a woman who is Neutral and incite her to become attracted. You do this by making yourself vulnerable, sharing yourself unabashedly, and polarizing her one way or the other and being comfortable with whichever result
- 
+
 You cannot be an attractive and life-changing presence to some women without being a joke or an embarrassment to others. You simply can't. You have to be controversial. You have to polarize. It's the name of the game. And getting good at the game is learning to open yourself up enough emotionally, learning to express your honest self enough and be comfortable enough with your vulnerability to take those embarrassing moments with the moments of passion. A willingness to polarize is not easy. But it's necessary. It's why you're here right now.
- 
+
 The fact is, sexuality, attraction and relationships are by their very nature confrontational and controversial. You have to either make the decision to accept being controversial and confrontational or you need to accept that you will go through life with everyone being Neutral towards you.
- 
+
 When we define success as finding the woman/women who will maximize our happiness, our approach takes a completely new light. Instead of waiting and hoping for a woman to select us, instead of racking up numbers, instead of winning bragging rights, instead of avoiding rejections -- our success is defined by screening through as many women as possible until we find the ones we enjoy.
- 
-The Three Fundamentals are: 
 
+The Three Fundamentals are:
 
+1.  Creating an attractive and appealing lifestyle.
 
-	
-  1. Creating an attractive and appealing lifestyle. 
+2.  Overcoming your fears and anxiety around women.
 
+3.  And mastering the expression of your emotions and communicating fluidly.
 
-	
-  2. Overcoming your fears and anxiety around women. 
-
-
-	
-  3. And mastering the expression of your emotions and communicating fluidly.
-
-
- 
 Overcoming your fear and anxiety probably has the greatest correlation with a man's overall results with women. The reason being, once a man overcomes his fear of rejection, he's willing to more or less pursue any woman he wants when he wants. Even if he's a deadbeat (lacks a good lifestyle) or even if he's terrible at expressing himself (lacks good communication skills), he will eventually meet women who want to date him and sleep with him by no other means than pure numbers.
- 
+
 In my experience, 90% of men fall into one of two categories: socially-anxious or socially-disconnected. Socially-anxious men tend to have the third fundamental down very well. They're good at expressing themselves and are very aware of social norms and what others are thinking/feeling. In fact, in a lot of cases socially-anxious guys are TOO aware of what other people are thinking and feeling and therefore have a lot of social anxiety. They're afraid to approach. They get nervous pushing things forward, they're scared to ask girls on dates. Generally though, once these guys do meet a girl who likes them, they do fine. They can converse with her all night. And if she happens to be attracted to him, he's not such a mess. But it's the actual being pro-active and making a move that scares him to death. These guys usually spend most of their time focusing on overcoming fear and little time on expression
- 
+
 What I recommend to every guy before he even begins talking to women is to sit down for a while and ask himself some questions:-What do you value in a woman? Honesty? Affection? Intelligence? Curiosity? Similar interests? Education? -Women with the traits that you value, where do they frequent? Where are you most likely to find them? -What do you enjoy doing most? Do you love to read/write? Do you play music? Do you enjoy sports and competitions? What are events or organizations that you can become involved in that explore your hobbies?-If you don't know what your passions and interests are, take a minute and write down things that you've always wanted to do but have never had the time or never worked up the nerve to do. Make a promise to yourself to get involved in that activity or event in some way.
- 
+
 Lifestyle choices may play an obvious role in the demographic of women we would like to meet. If you like to do yoga, then if you go do yoga, you'll meet other women who like to do yoga. They'll likely be attracted to you and you likely attracted to them. Duh. What's not quite as obvious, but just as important if not more important, is how our beliefs naturally screen the women who come into our lives. When I say beliefs, I mean beliefs about women, sex, relationships and ourselves. The idea is that our beliefs are reflected in our behavior, and behavior determines which (and how many) women are attracted to us. For instance, if you believe all women are sluts and untrustworthy, then the only women who are going to be willing to tolerate your behavior are promiscuous women who are untrustworthy. Social psychology refers to this as the assortment effect and it's been demonstrated in study after study.
- 
+
 Screening women through your personal beliefs is incredibly powerful. I honestly think that most "problems" that men turn to tactics and techniques to overcome, could easily be solved by simply adopting the appropriate beliefs. Unfortunately, beliefs are harder to pinpoint and also harder to implement than simply memorizing some lines or basic rules or techniques. I think acknowledging your beliefs and also being able to acknowledge that they may not be true, comes back to what was discussed in Chapter 4: being able to take an open and honest look at yourself and your desires. Becoming a non-needy man requires first and foremost an honesty with oneself. Part of that honesty with oneself involves observing and challenging your own beliefs. If you have lived your entire life believing women are untrustworthy or that women expressing themselves sexually is immoral, then perhaps you should evaluate what kind of women those beliefs are going to attract into your life. And if you don't want to attract those kinds of women, perhaps you should look at changing your beliefs
- 
+
 It's all relative. The key is to 1) recognize your personal interests and strengths, and 2) build upon those personal interests and strengths to quickly attract women in your preferred demographic.
- 
+
 The goal, as a man is to cultivate as much social status within your demographic as possible
- 
+
 Social proof only functions within a demographic. That's why once you've narrowed down your demographic, you want to cultivate your connections and put yourself into as big of a leadership position as possible. Don't just join the intramural frisbee team, start organizing it. Don't just volunteer at a charity event, help find sponsors for it. Don't just go hang out at a local night club, but become a promoter for it. Part of living the honest lifestyle is to pursue what you're passionate about to the fullest extent. If you absolutely love visiting art exhibitions, don't just visit a bunch of art exhibitions, take an active role in the organization, start a meet up group to find other people who want to visit them, create a forum for commentary. Don't just pursue your interests, become a leader in your interests. Don't just choose a demographic of women to meet, dominate that demographic
- 
+
 I recommend guys switch to a binary system of 1 or 0. A "1" is a woman you'd like to be with. A "0" is a woman you wouldn't. Why you want to be with her or not, how she looks, whether she's just OK looking or the most beautiful woman on the planet -- none of that matters. Either you're interested or not. The rest doesn't matter.
- 
+
 Being sexual and being attractive, by its very nature, is controversial. You must be willing to do something that is going to make you stand out. You are going to have to be willing to risk people not liking you. You have to be willing to sacrifice some people's approval in order to live life on your own terms. You have to be willing to polarize people's opinion about you. The less polarizing you are, the less attractive you are. And if you live an un-polarizing life, then you not going to be attractive or unattractive. You're just going to be boring. More of the same. Dime a dozen.
- 
+
 As you walk down the street and you remember: shoulders back, chin up, eyes straight, feet straight, shoulders swagger, arms swing. Always look straight ahead. Don't ever look down at the ground unless you think you're about to trip. Look people in the eye as they walk by – particularly attractive girls. You'll catch people making eye contact with you. You'll feel the urge to look away. Don't. Always make other people break eye contact with you before you break it with them. Do it until it becomes habit. Challenge yourself to go out for a week straight and do this every time you're in public. Notice any changes in how you feel. Notice any shifts in people's reactions to you. Notice any shifts in your confidence
- 
+
 I don't even know her. Yet I'm judging her. It's a defense mechanism.
- 
+
 It's always something, isn't it? There always seems to be something that you don't have right this second, that if you had it, you'd be able to act in the exact way that you'd like. Right?
- 
+
 People talk a lot about the idea of "skill" in all of this stuff. "Pick up is a skill. It needs to be practiced." Blah, blah, blah. I think as the years go on, it's being proven over and over that what you say isn't so important, how you approach isn't so important… What's important is that you move things forward without hesitation… without that resistance that you're obeying right now by doing nothing, by remaining in the status quo.
- 
-When we are confronted with our fears or anxieties, we have a pattern or strategy that we usually use to deal with them. For instance, my most common pattern is apathy. Whenever I'm confronted with something I'm afraid of, I pretend -- or scratch that, I convince myself that I don't actually care. Over the years, working with hundreds of men, here are some the most common patterns that I've noticed: 
 
-	
-  1. **Blame Game --** The Blame Game is where, when confronted with something he's afraid of, a man blames someone or something else for his fear. For instance, let's say you're anxious about giving a presentation at work. Someone who does the Blame Game will have a natural response to come up with reasons why his boss is stupid and he's way too smart to be doing this anyway and how it's not his fault if things go wrong because he's been sick and so-and-so didn't do enough research. In the context of women, the Blame Game will often result in men convincing themselves stuff like, "Oh, she's stuck up," or "She's just into guys who are good-looking," or "She's too stupid for me anyway," or "This club is too loud to talk to people," or "Women in Miami are just bitches, I need to find a new city." The excuses and blame are petty and ridiculous and they can run deep. The awful part of the blame game is that with it comes anger and frustration. And if you do it enough, the anger will pile up and you will end up with some pretty bitter and irrational beliefs about women. Men who have played the blame game their whole lives may develop screwed up beliefs like, "All women care about is how much money a guy has," or "All girls in bars are stupid and shallow." This can lead to some pretty dark places. 
+When we are confronted with our fears or anxieties, we have a pattern or strategy that we usually use to deal with them. For instance, my most common pattern is apathy. Whenever I'm confronted with something I'm afraid of, I pretend -- or scratch that, I convince myself that I don't actually care. Over the years, working with hundreds of men, here are some the most common patterns that I've noticed:
 
+1.  **Blame Game --** The Blame Game is where, when confronted with something he's afraid of, a man blames someone or something else for his fear. For instance, let's say you're anxious about giving a presentation at work. Someone who does the Blame Game will have a natural response to come up with reasons why his boss is stupid and he's way too smart to be doing this anyway and how it's not his fault if things go wrong because he's been sick and so-and-so didn't do enough research. In the context of women, the Blame Game will often result in men convincing themselves stuff like, "Oh, she's stuck up," or "She's just into guys who are good-looking," or "She's too stupid for me anyway," or "This club is too loud to talk to people," or "Women in Miami are just bitches, I need to find a new city." The excuses and blame are petty and ridiculous and they can run deep. The awful part of the blame game is that with it comes anger and frustration. And if you do it enough, the anger will pile up and you will end up with some pretty bitter and irrational beliefs about women. Men who have played the blame game their whole lives may develop screwed up beliefs like, "All women care about is how much money a guy has," or "All girls in bars are stupid and shallow." This can lead to some pretty dark places.
 
-	
-  2. **Apathy and Avoidance –** This has always been my Achilles' Heel, and it's quite common. Apathy and avoidance is exactly as it says: it's when a man convinces himself that he doesn't care or that it's not important to him. I did this for years. I convinced myself that I didn't care about meeting women, and that it didn't really matter if girls I liked didn't find me attractive. Well, after enough years of sitting home alone looking at porn while all of my friends were going through girlfriend after girlfriend, I had a rude awakening: I do care. Apathy and avoidance isn't the worst response when avoiding our fears with women, in that it usually can't last forever. We're biologically wired to pursue women so at some point instinct will win over. Where it is dangerous is in other areas of our life such as career, family or hobbies. The apathy and avoidance pattern is the root behind the couch potatoes and disgruntled office workers of the world. 
+2.  **Apathy and Avoidance –** This has always been my Achilles' Heel, and it's quite common. Apathy and avoidance is exactly as it says: it's when a man convinces himself that he doesn't care or that it's not important to him. I did this for years. I convinced myself that I didn't care about meeting women, and that it didn't really matter if girls I liked didn't find me attractive. Well, after enough years of sitting home alone looking at porn while all of my friends were going through girlfriend after girlfriend, I had a rude awakening: I do care. Apathy and avoidance isn't the worst response when avoiding our fears with women, in that it usually can't last forever. We're biologically wired to pursue women so at some point instinct will win over. Where it is dangerous is in other areas of our life such as career, family or hobbies. The apathy and avoidance pattern is the root behind the couch potatoes and disgruntled office workers of the world.
 
+3.  **Intellectualizing –** A popular one when it comes to men and dating advice. In fact, I guarantee that this is part of the reason you're here: you have some sort of fear, anxiety or pain related to women, and instead of actually doing something about it, you got online and decided to look up an answer that you could study. Intellectualizing is fairly harmless in that it provides side benefits: you learn a ton of information about a lot of subjects, and ultimately, the intellectualizing will lead to more self-awareness and help clarify what sort of action you need to take. But there are many men who use intellectualizing as just another form of avoidance. It tends to be really smart guys too, which is a problem, because the smarter you are, the more you're able to intellectualize and convince yourself that you need to learn and understand more. When it comes to women, this is not the answer. Honestly, if you went out and approached women for a year without ever reading a word of dating advice, you'd probably do OK, assuming you were honest with yourself and able to learn from your mistakes. Sure, this stuff all helps, but in the end, your best teacher is your experience. There comes a certain point where learning more about a subject is no longer beneficial and on the contrary, is just going to get you more mixed up and confused, since you have no experience to actually apply your knowledge to. Intellectualizing also ends up having a backlash. Once you study a subject enough, it can actually increase your anxiety. By studying it so much you've put more pressure on yourself to succeed and therefore build up higher expectations for yourself.
 
-	
-  3. **Intellectualizing –** A popular one when it comes to men and dating advice. In fact, I guarantee that this is part of the reason you're here: you have some sort of fear, anxiety or pain related to women, and instead of actually doing something about it, you got online and decided to look up an answer that you could study. Intellectualizing is fairly harmless in that it provides side benefits: you learn a ton of information about a lot of subjects, and ultimately, the intellectualizing will lead to more self-awareness and help clarify what sort of action you need to take. But there are many men who use intellectualizing as just another form of avoidance. It tends to be really smart guys too, which is a problem, because the smarter you are, the more you're able to intellectualize and convince yourself that you need to learn and understand more. When it comes to women, this is not the answer. Honestly, if you went out and approached women for a year without ever reading a word of dating advice, you'd probably do OK, assuming you were honest with yourself and able to learn from your mistakes. Sure, this stuff all helps, but in the end, your best teacher is your experience. There comes a certain point where learning more about a subject is no longer beneficial and on the contrary, is just going to get you more mixed up and confused, since you have no experience to actually apply your knowledge to. Intellectualizing also ends up having a backlash. Once you study a subject enough, it can actually increase your anxiety. By studying it so much you've put more pressure on yourself to succeed and therefore build up higher expectations for yourself.
-
-
- 
 The key to overcoming your fears is first and foremost to break your patterned response to your fear. This requires a certain level of selfawareness and discipline.
- 
+
 So here's some helpful ways to break your own pattern:
 
-	
-  1. Take a moment and think about what you're most anxious about. Is it approaching? Is it showing sexual interest? Is it asking a girl out? Is it the first kiss?
+1.  Take a moment and think about what you're most anxious about. Is it approaching? Is it showing sexual interest? Is it asking a girl out? Is it the first kiss?
 
+2.  Now write down your pattern with it. So for instance, "Calling women, pattern is apathy," or "Approaching women, pattern is blame game."
 
-	
-  2. Now write down your pattern with it. So for instance, "Calling women, pattern is apathy," or "Approaching women, pattern is blame game."
+3.  Now, create a goal for yourself, for instance, "Call every phone number I get, no matter how much I don't care." Write it down.
 
+4)  Tell a friend or a buddy what you plan on doing and ask him to keep you accountable. That last item is important. Sharing your fears and having someone keep you accountable is integral to this whole process and makes it 10 times easier. Even the very act of sharing your fear with someone who can empathize and understand goes a long way to relieving the pressure.
 
-	
-  3. Now, create a goal for yourself, for instance, "Call every phone number I get, no matter how much I don't care." Write it down.
-
-
-	
-  4. Tell a friend or a buddy what you plan on doing and ask him to keep you accountable. That last item is important. Sharing your fears and having someone keep you accountable is integral to this whole process and makes it 10 times easier. Even the very act of sharing your fear with someone who can empathize and understand goes a long way to relieving the pressure.
-
-
- 
 Challenge yourself to find the good and beautiful thing inside of everyone. It's there. It's your job to find it. Not their job to show you.
- 
+
 Particularly in the case of attracting and becoming more competent with women, I encourage guys to steer away from stereotypes as much as possible. Even if you're absolutely convinced that they're true, they're just almost never worth buying into. Any stereotype you come up with is going to have far too many exceptions to make it worth your time holding on to it. And it's not worth the drawback: relinquishing your personal responsibility to each interaction.
- 
+
 End all pornography immediately. Starting today. Delete everything from your computer. Throw out any discs or DVDs you have. And if you have trouble controlling your urges, download some free website blocking software and block every porn site you know of indefinitely. This may sound horrible or extreme, but trust me. You will thank me in a month. -Limit your masturbation to once a week. Schedule it. Pick a day. I usually pick Monday. Do not deviate from your masturbation schedule! If you want even a larger dose of motivation (and you want to be as horny as a 14-year old), limit your masturbation to once every other week. Again, pick a day and hold yourself to it. -When you masturbate, you're only allowed to fantasize about women you've met and have not had sex with. It could be that woman at work. That girl you met Saturday night. The girl you have a date with that week. Whatever. But she has to be real, and she has to be someone you have not slept with (but obviously want to). -When you masturbate, use lotion or lube. Do it slower than usual. Drag it out longer than 10 minutes if you can. Take your time with it. Enjoy it. You don't get to do this every day, remember? -When you're out and about during your daily life, every beautiful woman you see, every hot girl you talk to, I want you to imagine what it'd be like to have sex with her. Visualize it in your head. Try to imagine her in her underwear. Imagine her giving you a blow job. Imagine railing her right there on the street with everybody watching. Notice how turned on you get. Chances are your desire to go talk to her is suddenly going to shoot through the roof. Follow this for a few weeks and you should find yourself motivated. If you mess up or give in, just start over again. Don't be hard on yourself. Ideally, within a couple weeks the idea of going out to approach women should sound exciting to you instead of a chore. This is good. So go out and do it.
- 
+
 The next time you approach, when she sees you coming -- and trust me, she usually sees you coming -- know that she's already rooting for you. Secretly, she wants you to succeed as much as you do. And for a moment she's your biggest fan. And your role as a man is to take action. It's all on you. It's always on you. You move things forward.
- 
+
 The way to attack anxieties is through incremental, but high volume exposure. Not single, extreme exposure.
- 
+
 If you're afraid to approach women, then you find the easiest and lowest intensity way to approach, and then do it in high volume. So for instance, instead of doing the "embarrass yourself" exercise above one time, you would approach 10 women in an hour or two just asking for the time. Nothing more is required, just what time it is. Find something easy, but repeat it many, many times. Then the next day, you go out and ask 10 women what time it is followed by, "How is your day going?" And each day, you slowly make it harder and more intensive. Eventually you'll be able to approach any woman in any circumstance and express your interest in her... without fear, without worrying about what to say or what line to use.
- 
+
 Any man can condition himself this way and it's not hard to imagine the benefits of this method. The easiest example is approaching women. Start with something simple and innocuous. Hell, you could even start by asking clerks and cashiers how their day is going -- they have to be nice to you after all. But start simple. "What time is it?" or maybe "Can you tell me how to get to the bus stop?" Do that 10 or 20 times, then go out the next day and approach women the same way, but ask them how their day is going. Then go out and and ask 10 or 20 women for directions, how their day is going and then ask them a personal question about themselves. Slowly work up until you're able to approach women by telling them you think they're attractive and asking them out on a date. You'll be surprised how quickly you can get comfortable doing this. In fact, if you're like most guys and stick with it, then you'll begin to get hooked to the adrenaline rush and actually enjoy the butterflies you get when you approach a new woman.
- 
+
 Take things one at a time, stair-step them slowly until you get not only comfortable with it, but excited about it, and then move on to the next thing. That excitement and enthusiasm will bleed over into the next form of anxiety and motivate you to keep going. For example, a guy who is scared to approach women should stairstep approaches until he enjoys approaching. Then use that enjoyment to stair-step his way up displaying more interest and communicating more openly. Then use his enjoyment and the adrenaline from that to stair-step his way up being physical with women. Soon, he'll be getting laid and dating some very cool women. If this sounds like a lot of work, it's actually not. It's actually quite simple and if you're focused about it and don't get distracted with all sorts of mundane and extraneous theory, it's very straightforward and can be accomplished quickly.
- 
+
 Feeling fear and acting despite of it builds courage. Any time you're afraid to do something and feel some invisible force holding you back, yet you push through it anyway, you're building courage within yourself. Courage is a habit. Courage is a form of discipline. It's taking a certain action even though you feel like doing something else. The difference here is that courage involves acting against fear, whereas discipline involves acting against laziness or fatigue. Courage is built like a muscle. The stair-stepped exercises in the previous section are designed to progressively build your courage. The more courage you build, the more you'll be capable of bold actions. Bold actions require a lot of vulnerability and destroy neediness.
- 
+
 If you're ever going to do something that is unusual -- approach a woman in a strange location, try to kiss her in a strange location, invite her out with you after just meeting her, etc. -- it's important that you communicate that you realize what you're doing is abnormal. "You know, I've never done this before, and I know we just met, but why don't you come to the restaurant with me." "Excuse me, this is kind of random, but I thought you were cute and wanted to meet you." The more bold your action, the greater attraction you're going to create. The more bold the action, the more vulnerability you show, and the more you polarize responses.
- 
+
 Greater boldness leads to greater polarization. This is yet another argument for behaving in an aggressive manner. This is also why one of my mantras that I tell guys is, "Always err on the side of aggression." Whenever you're in doubt of what you should do, err on the side of aggression. Choose the more bold action. Because if you wait around for the safer and less bold opportunity to make a move on her, chances are the attraction will be less or may even dwindle.
- 
+
 There's no such thing as a man who is good with women who isn't also creepy some of the time.
- 
+
 Creepiness: behaving in a way that threatens a woman sexually or causes her to feel insecure
- 
+
 Paradoxically, the way to interact with women in a vulnerable way, and therefore the way to combat creepiness, is to accept that some women will find you creepy some of the time. Just as with rejection, the more you're willing to risk it, the less it will happen. The more comfortable you are with women finding you creepy, and the more uninhibited and vulnerable your actions and words are around women, the less likely they will be to find you creepy. The more reserved and closed up you are about your intentions, the more you attempt to manipulate her and mislead her about what you want and who you are, the more likely you are to become creepy. Obviously, there are technical aspects of communication that affect this as well. Bad body language, strange conversation topics, uncalibrated humor, inappropriate touching -- these things can all make you creepy even with the best of intentions. This is why I say that at some point you have to accept that you're going to creep some women out and that's OK. Because the alternative is to hide your sexuality and hope a woman comes to you... and well, we all know how well that works out
- 
+
 Flirting: Expressing your sexuality to a woman in a non-needy manner, eliciting her to become more attracted to you.
- 
+
 Teasing type flirting breaks rapport verbally. Teases involve saying derogatory comments about someone in a funny or pleasant way. Family members tease each other. Friends tease each other. And men and women tease each other when they're sexually interested in one another.
- 
+
 Often dropping even one tease into an otherwise normal and boring conversation will spark a lot of attraction and interest from a girl. For this reason, teasing is usually the easiest and quickest way for a guy who is inexperienced with women to generate attraction from them. Cultivating genuine and long-lasting attraction is a long-term process that requires investing in yourself, your identity and overcoming your fears over a long period of time. But if one learns to tease well, they can leave the house right now and potentially spark a girl to become attracted to them, even if it's only for a moment
- 
+
 Just like teasing, leading demands that you stick your neck out and make yourself vulnerable, but leading does it by inviting her to comply with an action you take. Think of it as breaking rapport, but instead of doing it verbally, you're doing it by inviting her to take part with you in whatever you choose to say or do. Some good examples of leading type flirting are taking her by the hand and moving her somewhere else. Statements of sexual interest. Physically touching her. Asking her personal questions about herself. Inviting her out on a date or home with you
- 
+
 Leading and teasing often intertwine with one another. You may be tease-type flirting with a girl by roleplaying that she's your housekeeper and she's in trouble for making such a mess. You then lead her to a room of the party where you two can be alone and begin kissing her. Another classic situation is flinging harsh teases immediately followed by sincere compliments. For instance, you could make fun of how indecisive she is ordering her drinks and tell her that indecisiveness isn't going to lead her anywhere in life. When she responds with some indignation, you could then compliment her on how beautiful her eyes are when she's mad. This absolutely bamboozles women in a very, very good way. They don't know whether to laugh or cry, hug you or hit you. And ultimately that conflict of emotions turns them on. It's a lot of fun. Try it. If teasing and leading both break rapport with the woman you're talking to, the next part of the formula involves her regaining rapport. She does this either by qualifying herself (teasing) or complying (leading). If she does not re-establish rapport with you, then it means she is not attracted to you. And you've been rejected. End of story.
- 
+
 Your ability to connect with a woman emotionally is proportional to how self-aware you are of your own emotional processes and motivations.
- 
+
 So how do you develop deep and lasting emotional connections with women, connections that will blow your mind and heart away as well as hers too? Connections that will give you some of the best nights and sex of your life?
- 
+
 Becoming aware of your own emotions, motivations and life story.-Taking the lead by sharing those emotions, motivations and life story first.-Sharing first creates trust and encourages her to open up and share herself in return.-Ideally, the more this goes on, the more personal the stories become and the deeper the emotions in which you connect with.
- 
+
 If you have trouble relating to people, particularly women, then chances are you've developed communication habits that are unattractive and are not serving you well.
- 
+
 The trick is to identify the good/bad habits you want to build or break and the focus on them consciously until they're second nature. This actually doesn't take a long time. For simple things such as eye contact or posture, it may only take a few weeks. For things such as touching, or making statements instead of questions, it may be even shorter. Either way, the more you implement the habits, the better your reactions from women will be, therefore increasing your motivation to implement the habits further.
- 
+
 You'll also notice that many of these habits are directly correlated with overcoming fears and anxieties as discussed in Chapters 10 and 11. For instance, developing the habit of touching a woman when you make a joke relates directly to an anxiety many men feel about showing sexual interest. The habit of smiling when you introduce yourself to somebody ties into the anxiety of meeting new people. Many of these behaviors are linked to your anxieties. And the interesting thing is that you can resolve them from both sides: fixing your outer behaviors will help alleviate your internal anxiety, and alleviating your internal anxiety will help fix up your outer behaviors
- 
+
 Don't linger. If you linger and hover around her, it's almost guaranteed to make the approach feel awkward and forced. Imagine a straight line between you and her, and when you're ready to go, follow that straight line until you're standing right in front of her. Don't stand around and kick the dirt at your feet trying to work up the nerve right next to her. -Smile. Always smile. Don't smile like "Holy shit, I just won the lottery smile," smile. But smile as in you're a nice, friendly person smile. A comfortable smile. Lean back. Stand up tall. Speak loudly yet clearly. Make strong eye contact. Introduce yourself and stick out your hand. Give a firm handshake. This is called being a confident human being
- 
+
 **CONVERSATION SKILLS**
- 
+
 **Using Effective Language:** This is the easiest "quick fix" that you can apply to your communication skills. Using effective language means speaking what you mean with the fewest words possible while still maintaining your meaning and intent.
- 
+
 **Questions Versus Statements:** Creating threads of conversation through statement is far more powerful than questions. This is because it assumes rapport. Friends speak to each other in statements, not questions. Questions are a polite way of requesting information of someone. They create the frame that you desire something from her and she is obligated to fulfill your request. But statements make it so that you're constantly giving away information and value to the other person. Statements give you a wider array of topics to choose from. Only broad questions feel socially acceptable. Specific and eccentric questioning comes off as odd and unattractive
- 
+
 Instead of incessant questioning, you want to develop a skill called cold-reading. Cold-reading is a skill where you're able to intuitively "know" something about someone else without actually knowing it. Instead of asking her a question about herself, you guess the answer to your question and then state it. You should cold-read as much as possible. Any time you're asking a question that requires a factual answer; take a stab at the answer instead of asking. Besides that, creating conversations out of statements protects you from "blanking." You know when you are talking to a woman and all the sudden the conversation dies and you have no idea what to say? You're sitting there awkwardly and the more uncomfortable you feel, the harder it is to come up with something. Eventually, you blurt out something boring like, "So… where do you live?" Using statements can prevent this a great deal. Instead of fishing for a new conversation based on a generic question, you can simply comment about something or observe something. Never underestimate the power of non sequiturs. "I'm thinking about quitting drinking." "A car almost hit me on the way here tonight." "My roommate eats peanut butter and mayonnaise sandwiches. It's disgusting." "I've always wanted to visit Africa." These will sometimes come across as random. But that's because they are – they're whatever thoughts are popping into your head at the moment. It's better to be random and interesting than predictable and boring. Don't be afraid to just blurt something out. This works because unlike questions, statements require no investment from the other person. You can say whatever you want and there's no implicit expectation for her to generate conversation as well
- 
+
 **Endless Conversation Topics:** In every topic of conversation, there are countless opportunities to jump off onto other topics – there are countless word associations to be made. If you don't already do this, it's a habit you need to ingrain in yourself – just as the comedians ingrain off-the-wall word associations. Combining this skill with the ability to cold-read and create conversational threads out of thin air by making statements, and you will literally develop the skill to begin and control any conversation with anybody for any length of time. This skill is imperative to your success with women. EVERYTHING you do to attract and interest women lies on the foundation of strong conversational skills. Teaching a shy and reserved guy strong conversational ability will immediately translate to improved results
- 
+
 **Storytelling:** Human beings, by default, are enrapt by stories, or more specifically, a story-arc. Politicians use them to campaign, teachers use them to explain important concepts, comedians use them to make us laugh, and we use them constantly in our day-to-day interactions. But what you probably didn't notice is that the best communicators you know are fantastic story-tellers.
- 
+
 There are three main points of a story arc: Set Up: The set up is exactly what it says, you're setting the scene or the context for what you're about to say. It's the foundation of what's about to be told, and if you don't set up properly, then your stories, jokes and ideas will always seem to be random. People will consistently comment that you're really random, weird or "off the wall." Content/Conflict: After setting up what you're going to talk about, you get into the actual content. This can also be the "conflict" in your story. Whatever it is, it's something that causes tension and expectancy. The content of your story needs to be intriguing and hook people into wanting to know what will happen next. If you don't build much tension with the content of your stories, you will find people losing interest or get the feeling like you ramble on a lot. Resolution: The resolution releases the tension from the conflict or content. Resolutions can come in forms of punchlines (for jokes), conclusions (for ideas), or just closure for a generic story. People who don't resolve their stories and ideas well will often get blank stares when they're finished speaking, or people asking them, "Yeah, and…?" not realizing that the story is finished.
- 
+
 **Relating and Connecting:** The final goal of a successful conversation is to actually make a personal connection with the woman you're talking to. When you are talking to a woman, there are only two REAL subjects of conversation: her and you. Everything you speak about should be, in some way, revealing your identity to her or her identity to you. This uncovering of identity is what creates the sense of a "connection". The greater the connection you create, the more she'll want to spend more time with you and vice-versa. Making a connection requires three steps: being open about yourself; getting her to be open about herself; relating to her experience
- 
+
 **HUMOR**
- 
+
 At its core, humor is the art of drawing connections between two seemingly unrelated ideas or objects.
- 
+
 **Misdirection:** One of the most common and easiest forms of humor is misdirection. Misdirection occurs when you begin to say something or tell a story which leads the listener to believe you're making one point, and then out of no where you say something completely different. For instance, here's a famous line by Steve Martin: "You know that look women get when they want to have sex? ... Yeah, me neither.
- 
+
 **Exaggeration:** Exaggeration is another mainstay of humor and something that everyone should be able to use. Exaggeration is when you take a quality about something, and blow it completely out of proportion, often in a creative or interesting way. For instance: "She's a nice woman though, nicest three acres of flesh I've ever met.
- 
+
 **Teasing and Sarcasm:** Whereas misdirection and exaggeration are funny to just about anybody, you'll run into a minority of women who don't find teasing or sarcasm funny. Teasing and sarcasm can also vary in degrees of appropriateness, especially depending on where you are.
- 
+
 If you find yourself having a lot of trouble with humor, I recommend watching a lot of stand up comedians. Some of my favorites are Louis CK, George Carlin, Bill Maher, Bill Hicks, and Chris Rock. Pay attention to their delivery, their timing, their facial expressions. These things can't be taught in a book, so pay attention to them. Pick a few of your favorite comics and watch their stand up routines multiple times to get a real sense of how they tell a story and how they nail a punchline.
- 
+
 Humor is only useful if used in conjunction with leading her in a dominant manner and pushing things physically with her. Ultimately, you aren't ever really attracting a woman unless you're connecting with her physically and emotionally. And although humor is a very useful tool to HELP you do that. It doesn't actually do it for you.
 
 **DATING**
- 
+
 I always text within 24 hours of getting her number. I send a simple text: "Hey Sara, it was nice meeting you." That's it. Most girls who are interested in you will respond somewhat quickly. The ones who do not respond to this will usually flake on you. -From there, I usually wait another day or so and start a text conversation. I like to reference a conversation we had when we met in this text to try and keep some continuity. The goal here is nothing special, just trying to get a little bit of back and forth going. It's been over 24 hours and I'm seeing how warm the lead still is. Typically, if I can get a text conversation going here, then she's pretty likely to go on a date with me. If her responses are few and far between, then she's likely a flake.
- 
+
 **When to Go on Dates:** Don't do lunch dates, and never make an afternoon date the first date if possible. Just don't do it. For whatever reason, nothing says, "let's just be friends," more than having lunch together. Save dates for the night time. It builds a greater sense of expectation. There's more flexibility to spend more time together. It's more of a commitment. And it leaves the option open for you or her sleeping over.
- 
+
 **Where to Go:** Absolutely NO movie dates for first or second dates. Movie dates are terrible. You don't get to talk, you sit awkwardly next to each other, and it's impossible to touch her without being awkward (importance of this will be delved into next chapter). Avoid dinner dates if at all possible. They're cliche. They're impersonal. Once again, it's almost impossible to touch sexually. And believe it or not, a lot of women are self-conscious about eating in front of you, food selection, etc. Also, you can avoid the awkward "who pays?" situation -- which we'll talk about in the next section. Good date locations are locations that are active, participatory, and allow for touching and flirting. Alcohol can be helpful as well. Some good examples include: comedy clubs, dance classes, museum exhibits, walks in interesting places (plazas, parks, etc.), concerts, etc.
- 
+
 Once you've researched and found 4-6 venues and activities near your place that you enjoy doing, that are good date activities and are easily accessible, it's time to start putting them together. The ideal amount of places/activities per date is three. This may sound weird to you, but this is key. Most men do dinner, drinks and then sit at the table for another hour chatting away. On 310our dates, we are DOING things… lots of things. We're going bowling, having drinks, dancing, checking out statues in the park and carriage riding… all in three hours. There's something strange in human psychology. Our level of intimacy with one another doesn't come from how much we talk about, as much as it comes from the experiences we share. These dates are designed to create as much mutual experience as possible in the least amount of time as possible.
- 
+
 **How to Behave on a Date:** As I mentioned before, you want your dates to be interactive. You want to be able to walk around, be able to touch and be as interactive as possible. The underlying concept to have on a date is that you need to constantly be leading. Every decision should be yours and she should be expected to follow it. Remove, "What do you want to do now?" from your dating vocabulary. Never say it again. It should be like this: "Hey, let's grab some tacos, I know a cool stand over here," "I got an idea, I'm going to kick your ass in air 311hockey," "Let's check out the Science museum, they have an awesome exhibit on the human body," etc. As far as what to talk about, your conversations should be getting deeper and more personal. There should be less teasing and playful banter and more conversations about your lives and what's important to you. Learn about her past, her passions, her dreams, what her favorite things are. At the same time, you don't want to turn this into a job interview (which too many dinner dates turn into), but elicit these topics by sharing them yourself.
- 
+
 Pay unless she physically pulls out her wallet/credit card and stops you. Until she physically does that, just pay. Yes, once in a while you can get women buying you drinks and stuff -- there are even ways to influence them to do this -- but at the end of the day, unless you're broke, take care of them. It's a no-lose move and it will win you points with many of them.
- 
+
 **PHYSICAL CONTACT**
- 
+
 Being physical on women is a necessary habit that most men who are poor with women never do. Most men are a bit shy and hesitant when it comes to "making moves:" touching, the first kiss, sexual touching, etc. Well, that needs to stop. From now on, you are a sexually aggressive and dominant guy and you have no shame… We'll also discover that women actually prefer you to be this way. There are two reasons for being physically aggressive. The first is that you want to make her comfortable with being touched by you as soon as possible. You want to set the precedent for the relationship that you are a physical person and that you're comfortable with your body and hers. The other reason is psychological. People who touch when they interact with another person are generally viewed as more dominant. All politicians and businessmen will touch somebody on the arm as they greet them and shake their hand. Often times they'll even touch them with both hands. Studies have shown that people being touched by somebody when they first meet them not only have a much higher probability of thinking favorably of them, but they also were shown to trust them quicker.
- 
+
 So how do you touch a girl right off the bat? When you go up to start a conversation with her, just lightly touch her on the arm, near the elbow. Don't press hard or hold it, as that could startle her, but just a small tap. Once you're engaged in a conversation with her, you want to use your touching to punctuate the conversation. Think of touching as the exclamation marks or question marks of the dialogue. For instance, let's say you make a clever joke and she begins to laugh really hard, you should put your hand on her arm to punctuate the emotion of the moment. The best way to touch is to integrate physicality into your conversation. For example, using games such as thumb wars, twirling her like a ballerina, or giving high fives are great ways to initiate physical contact. As the conversation goes on, the better things are going, the more you want to be touching and the more personal you want your touches to be.
- 
+
 Your touching should happen in a progression. In general, you want to start on the outside of her body – her arms and legs – and slowly move closer into her body: put your hand on her back as you move her to sit down with you, put your arm around her lower back as she leans against the bar next to you, etc.
- 
+
 Push and pull is a physical flirting technique that is instrumental in creating intimacy. It's basically touching combined with teasing. Remember, in flirting, you go through the pattern of showing disinterest (breaking rapport) and then letting her regain your interest (qualifying). Push and pull is merely translating that into a physical form. Here are some examples:
 
+- You take her hand and twirl her around like a ballerina. She does it kind of awkwardly. You let go of her hand and say, "NEXT!" and pretend to walk off with a smile. More often than not, she'll grab you and make you come back. Then you say, "OK, we'll give it one more try." You do it again and say, "Not bad," and hug her.
 
+- You're on a date, taking a walk through the local gardens. She says something really cute, so you say, "That's too cute, I can't handle it," and lightly shove her away from you. See if she comes back towards you. If you push and pull well, you'll increasingly find yourself in more intimate and emotional situations with her. You can take any of the examples above and transition straight into tickling her where you can end up on top of her and in perfect position to kiss her. The purpose of push and pull isn't an ends to itself, it's a means to give you opportunities to kiss her.
 
-	
-  * You take her hand and twirl her around like a ballerina. She does it kind of awkwardly. You let go of her hand and say, "NEXT!" and pretend to walk off with a smile. More often than not, she'll grab you and make you come back. Then you say, "OK, we'll give it one more try." You do it again and say, "Not bad," and hug her.
-
-
-	
-  * You're on a date, taking a walk through the local gardens. She says something really cute, so you say, "That's too cute, I can't handle it," and lightly shove her away from you. See if she comes back towards you. If you push and pull well, you'll increasingly find yourself in more intimate and emotional situations with her. You can take any of the examples above and transition straight into tickling her where you can end up on top of her and in perfect position to kiss her. The purpose of push and pull isn't an ends to itself, it's a means to give you opportunities to kiss her.
-
-
- 
 Escalating like this is a skill that every guy needs to become successful with women. If there was one skill in the world that you could have that would make you the most successful with women by itself, it would be aggressively escalating with women. It turns them on. Even when they say no, it turns them on.
- 
-When it comes to sex, more important than any physical technique – some cool angle or position or whatever – is being dominant. Sexual gratification for women is far more psychological than it is physical, whereas for men it's mostly physical. A large component of this psychological satisfaction comes from being dominated and surrendering control. Women like to feel like you have the power and the control in the bedroom. They want you to be assertive and strong with what you want. So how do you become dominant in bed? 
 
-	
-  * Be loud. Make noise. Grunt. Breathe hard. Women love this because it makes them feel like they can be loud. And when they're loud they get off easier and more often. 
+When it comes to sex, more important than any physical technique – some cool angle or position or whatever – is being dominant. Sexual gratification for women is far more psychological than it is physical, whereas for men it's mostly physical. A large component of this psychological satisfaction comes from being dominated and surrendering control. Women like to feel like you have the power and the control in the bedroom. They want you to be assertive and strong with what you want. So how do you become dominant in bed?
 
+- Be loud. Make noise. Grunt. Breathe hard. Women love this because it makes them feel like they can be loud. And when they're loud they get off easier and more often.
 
-	
-  * Talk dirty. Tell her how sexy she is. Tell her what you're going to do to her before you do it. Call her a dirty girl and a horny slut. This may be outside of your comfort zone, but realize that in the bedroom the rules change and logic goes out the window. 
+- Talk dirty. Tell her how sexy she is. Tell her what you're going to do to her before you do it. Call her a dirty girl and a horny slut. This may be outside of your comfort zone, but realize that in the bedroom the rules change and logic goes out the window.
 
+- Get physical. Spank her. Pull her hair. Hold her down with one hand. When you change positions, literally pick her up and move her yourself.
 
-	
-  * Get physical. Spank her. Pull her hair. Hold her down with one hand. When you change positions, literally pick her up and move her yourself. 
+- Don't ever ask, "Is this OK? Do you want to do X?" Just do it and stop later if she doesn't like it and apologize. Nothing turns a girl off faster than a guy who defers to her too much while having sex. Take control. Do what turns you on and that will then turn her on. The most important habit to develop, by far, is to talk and be loud in the bedroom. There has to be an open forum of communication when you sleep with a girl, especially the first few times you're together. Sex is always somewhat awkward the first time you're with a new person. Everybody engages in different practices, habits and prefers different things. It takes awhile to learn each other's tendencies and adapt to one another's likes and dislikes. This requires you to have a sense of humor in the bedroom. Goofy and weird moments are going to happen in the sack and most people are at their most insecure when they're naked and lying under someone they just met a week ago. Have a sense of humor. Be understanding. RELAX. One of my favorite jokes in the bedroom when stuff goes awry is, "They make it look so easy in the movies." If you can get a girl to crack up, she'll forget she's naked, forget she's in a strange position and forget that you just screwed up and just be with you, laughing with you.
 
-
-	
-  * Don't ever ask, "Is this OK? Do you want to do X?" Just do it and stop later if she doesn't like it and apologize. Nothing turns a girl off faster than a guy who defers to her too much while having sex. Take control. Do what turns you on and that will then turn her on. The most important habit to develop, by far, is to talk and be loud in the bedroom. There has to be an open forum of communication when you sleep with a girl, especially the first few times you're together. Sex is always somewhat awkward the first time you're with a new person. Everybody engages in different practices, habits and prefers different things. It takes awhile to learn each other's tendencies and adapt to one another's likes and dislikes. This requires you to have a sense of humor in the bedroom. Goofy and weird moments are going to happen in the sack and most people are at their most insecure when they're naked and lying under someone they just met a week ago. Have a sense of humor. Be understanding. RELAX. One of my favorite jokes in the bedroom when stuff goes awry is, "They make it look so easy in the movies." If you can get a girl to crack up, she'll forget she's naked, forget she's in a strange position and forget that you just screwed up and just be with you, laughing with you.
-
-
-  
 And in those times that it does become difficult, those times where you do get frustrated and fall back to your needy beliefs, your desire for external validation, where you let yourself become swayed by the whims of others rather than your internal compass, you may feel lost or hopeless. This feeling of hopelessness may last for minutes, hours or days, but chances are if you push yourself, if you genuinely try to change yourself and re-orient how you interact with the world, then you will feel it at some point. And for those times, let me share with you a phrase that has helped me and countless other men through those dire straits. The phrase comes from Dr. Robert Glover and his book No More Mr. Nice Guy, one of the best books I've ever read on men's emotional health and development. The phrase is: "What if it was a gift?" Whatever happens to you, no matter how bad, no matter how bleak you feel. Ask yourself, "What if it was a gift?" And then try to rationalize a way it could be so. Because see, in the world of emotions, there are no absolutes, you can usually draw whichever conclusions you desire. So why not choose to draw conclusions of blessings, positivity and gifts?

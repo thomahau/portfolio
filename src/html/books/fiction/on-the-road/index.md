@@ -2,7 +2,7 @@
 author: ugh
 comments: false
 date: 2017-01-21 13:37:49+00:00
-layout: page
+layout: book.hbs
 link: https://fluidself.org/books/fiction/on-the-road/
 slug: on-the-road
 title: On the Road - by Jack Kerouac

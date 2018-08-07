@@ -2,7 +2,7 @@
 author: ugh
 comments: false
 date: 2017-01-06 21:38:33+00:00
-layout: page
+layout: book.hbs
 link: https://fluidself.org/books/self-help/notes-to-myself/
 slug: notes-to-myself
 title: 'Notes to Myself: My Struggle to Become a Person - by Hugh Prather'
@@ -94,7 +94,7 @@ Do I avoid looking a stranger in the eyes because I don't want to make him uncom
 One thing has become quite clear. All acquaintances are passing. Therefore I want to make the most of every contact. I want to quickly get close to the people I meet because my experience has shown we won't be together long.
 
 Ideas are clean. They soar in the serene supernal. I can take them out and look at them, they fit in books, they lead me down that narrow way. And in the morning they are there. Ideas are straight--
-     But the world is round, and a messy mortal is my friend.
-     Come walk with me in the mud...
+But the world is round, and a messy mortal is my friend.
+Come walk with me in the mud...
 
 The writing in this book is an expression of insights on my current problems. As I write I am in a state of learning, becoming, arriving, and not in a state of knowing and having arrived. I write about communication because I find it hard to talk to people. I write about my sexual desires because I am learning to cope with them. Therefore what I have here is of necessity imperfect and halting, a grasping for knowledge but not knowledge.

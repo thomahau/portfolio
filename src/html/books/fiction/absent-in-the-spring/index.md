@@ -2,7 +2,7 @@
 author: ugh
 comments: false
 date: 2017-05-30 06:55:15+00:00
-layout: page
+layout: book.hbs
 link: https://fluidself.org/books/fiction/absent-in-the-spring/
 slug: absent-in-the-spring
 title: Absent in the Spring - by Agatha Christie writing as Mary Westmacott

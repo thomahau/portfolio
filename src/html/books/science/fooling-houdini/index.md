@@ -2,7 +2,7 @@
 author: ugh
 comments: false
 date: 2017-01-07 16:48:00+00:00
-layout: page
+layout: book.hbs
 link: https://fluidself.org/books/science/fooling-houdini/
 slug: fooling-houdini
 title: Fooling Houdini - by Alex Stone
@@ -36,6 +36,7 @@ The main problem with the militant antiexposure stance is that it sells magic sh
 Consciousness--like the saccadic eye movements that make up much of our vision--might not be a smooth stream so much as a series of discrete images that appear continuous only after our brains fill in the gaps. The same mechanisms that magicians exploit to make a coin vanish and reappear, in other words, may also account for the continuity of our daily experience.
 
 **Mentalism**
+
 Psychologists have since given a name to the astonishing eagerness with which people will embrace stock personality sketches as unique portraits. They call it the Barnum effect, after P. T. Barnum's famous dictum "We've got something for everyone."
 
 One interesting corollary to Forer's original study is that the more personal information a subject willingly discloses, the higher that participant tends to rate the accuracy of his or her reading. In other words, the perceived accuracy of the astrological reading was a function not of what the astrologer told them, but of what they told the astrologer. Astonishingly, this means psychics can boost their powers just by letting their sitters talk more.

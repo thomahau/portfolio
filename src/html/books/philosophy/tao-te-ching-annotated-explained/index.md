@@ -2,7 +2,7 @@
 author: ugh
 comments: false
 date: 2017-01-06 21:23:18+00:00
-layout: page
+layout: book.hbs
 link: https://fluidself.org/books/philosophy/tao-te-ching-annotated-explained/
 slug: tao-te-ching-annotated-explained
 title: 'Tao Te Ching: Annotated & Explained - by Lao Tzu'
@@ -28,6 +28,7 @@ The emptiness of the Tao is not a vacuous state of nothingness, because its infi
 The Tao does not play favorites. The rain waters weeds and orchids equally; the sun shines on everyone with the same brightness and warmth despite variations in individual merits. The sage, in emulating the Tao, also regards everyone in the same egalitarian light--none higher and none lower.
 
 **Selflessness**
+
 Heaven and Earth perform their functions without selfish desires. When we emulate this aspect of nature, we think of others first and ourselves last. By letting go of self-centered thoughts, we can feel the way our inner nature mirrors the greater Tao. When we let this natural mirroring process take place without interference, we become like Heaven and Earth--existing to be of service to others.
 
 A genuine, selfless desire to be helpful inspires people and wins their respect. Although sages have no wish to draw attention, people single them out and look to them for leadership. Although the sages place themselves last out of humility, the people push them to the forefront, into positions of responsibility.
@@ -35,6 +36,7 @@ A genuine, selfless desire to be helpful inspires people and wins their respect.
 Make it a point to put this teaching into practice, and see what happens. Spend an entire day living this selfless mindset. You'll discover the world responding to you in wonderful and even miraculous ways.
 
 **Water**
+
 Water is the most fitting metaphor for the Tao. Water always flows to the lowest place, not because it is forced to do so, but because it follows its own nature. We also place ourselves lower, not because we contrive to do so, but because it is our nature to be humble.
 
 Water provides its benefits and moves on, without waiting for any benefits in return. We benefit others in the same way. When we provide assistance, we do so with no strings attached.
@@ -68,7 +70,7 @@ These lines are a way to describe the law of cause and effect. The function of t
 _Those who are on tiptoes cannot stand 1
 Those who straddle cannot walk 2_
 
-1 To stand on tiptoes is to raise oneself above others. This is an effective metaphor for arrogance, because we know from everyday experience that it is not possible to stand that way for long. Similarly, an arrogant person's façade of superiority cannot last. 
+1 To stand on tiptoes is to raise oneself above others. This is an effective metaphor for arrogance, because we know from everyday experience that it is not possible to stand that way for long. Similarly, an arrogant person's façade of superiority cannot last.
 2 To straddle is to strike an exaggerated pose. This represents pomposity--a pretentious display of the ego. Just as we cannot walk while straddling, so too can we not make any progress in life when we are too busy projecting a boastful sense of self-importance.
 
 Skilled travelers in the journey of life follow the path of nature. They do not force their way through obstacles or trample over fellow travelers. They leave no signs of their passing. If we are similarly skillful in personal interactions, we would also follow the path of nature and not use words to find fault in others. To do so would be to leave unskillful skid marks all over the emotional landscape.

@@ -2,7 +2,7 @@
 author: ugh
 comments: false
 date: 2017-01-21 14:24:40+00:00
-layout: page
+layout: book.hbs
 link: https://fluidself.org/books/spirituality/the-surrender-experiment/
 slug: the-surrender-experiment
 title: 'The Surrender Experiment: My Journey into Life''s Perfection - by Michael

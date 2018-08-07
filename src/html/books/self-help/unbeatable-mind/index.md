@@ -2,7 +2,7 @@
 author: ugh
 comments: false
 date: 2017-04-20 08:03:15+00:00
-layout: page
+layout: book.hbs
 link: https://fluidself.org/books/self-help/unbeatable-mind/
 slug: unbeatable-mind
 title: 'Unbeatable Mind: Forge Resiliency and Mental Toughness to Succeed at an Elite
@@ -26,82 +26,46 @@ The re-direct is the set of follow-on instructions you provide your conscious mi
 
 **Key Insights**
 
+- The only thing you can control in life are your thoughts and your breath
 
+- A warrior's first premise is to cultivate an unbeatable mind BEFORE they set off for war, regardless of their battlefield.
 
- 	
-  * The only thing you can control in life are your thoughts and your breath
-
- 	
-  * A warrior's first premise is to cultivate an unbeatable mind BEFORE they set off for war, regardless of their battlefield.
-
- 	
-  * Negative thought patterns are first witnessed, then interdicted, then re-directed to positive patterns, then maintained with a positive mantra.
-
+- Negative thought patterns are first witnessed, then interdicted, then re-directed to positive patterns, then maintained with a positive mantra.
 
 **TWO PRIMARY DISCIPLINES OF THE UNBEATABLE MIND**
 
 **Key Insights**
 
+- The responsibility of the warrior is a lifetime of uncommon values and discipline, holding the warrior to a higher standard than society at large.
 
+- There are two primary disciplines that must be developed as you embark upon the path toward developing Unbeatable Mind.
 
- 	
-  * The responsibility of the warrior is a lifetime of uncommon values and discipline, holding the warrior to a higher standard than society at large.
+  - The first is the discipline of Self-Mastery. Self-Mastery is a daily practice and training of the key lines of development critical to living a good life, and the life of a warrior. These include the 5 Mountains of physical readiness, mental toughness and subconscious development, emotional depth and control, awareness and intuition and finally, your heart or unbeatable spirit. Self-Mastery cultivates the sub-disciplines of simplicity, contentment, seriousness, dedication, introspection and authenticity. The work on Self-Mastery is life-long and the joy is to be found in the journey, not the destination.
 
- 	
-  * There are two primary disciplines that must be developed as you embark upon the path toward developing Unbeatable Mind.
-
- 	
-    * The first is the discipline of Self-Mastery. Self-Mastery is a daily practice and training of the key lines of development critical to living a good life, and the life of a warrior. These include the 5 Mountains of physical readiness, mental toughness and subconscious development, emotional depth and control, awareness and intuition and finally, your heart or unbeatable spirit. Self-Mastery cultivates the sub-disciplines of simplicity, contentment, seriousness, dedication, introspection and authenticity. The work on Self-Mastery is life-long and the joy is to be found in the journey, not the destination.
-
- 	
-    * The second discipline is the discipline of Service. Service must be selfless, and cultivates abundance, generosity, belief in the golden rule, and compassion. These disciplines and the 5 Mountains of personal development must be worked on in tandem to ensure a balanced growth of the "whole person."
-
-
-
-
+  - The second discipline is the discipline of Service. Service must be selfless, and cultivates abundance, generosity, belief in the golden rule, and compassion. These disciplines and the 5 Mountains of personal development must be worked on in tandem to ensure a balanced growth of the "whole person."
 
 **THREE STAGES OF MENTAL TOUGHNESS**
 
 **Key Insights**
 Mental Toughness is defined by three primary underlying stages, which determine our response to a stressful situation.
 
+- The skill to perceive the stressor, and activate your stress response for performance using breath control and concentration.
 
+- The ability to transmute the stress response into performance versus allow it to be a disability (eustress vs. distress).
 
-	
-  * The skill to perceive the stressor, and activate your stress response for performance using breath control and concentration.
-
-
-	
-  * The ability to transmute the stress response into performance versus allow it to be a disability (eustress vs. distress).
-
-
-	
-  * The competence to implement strategies of good leadership and decision-making once you learn to control and direct the stress response toward performance.
-
-
+- The competence to implement strategies of good leadership and decision-making once you learn to control and direct the stress response toward performance.
 
 **FOUR LEVELS OF AWARENESS**
 
 **Key Insights**
 
+- Most in our society are sheep. The Wolves prey on the sheep. It is up to us, the sheepdog warriors, to serve the sheep and keep them safe.
 
+- Sheep operate in threat condition "white." Sheepdogs operate in "yellow" and are prepared at a moment's notice to escalate to "orange" or "red."
 
-	
-  * Most in our society are sheep. The Wolves prey on the sheep. It is up to us, the sheepdog warriors, to serve the sheep and keep them safe.
+- Though the warrior trains for violence, and can withstand the psychological impact of violence, he or she abhors violence.
 
-
-	
-  * Sheep operate in threat condition "white." Sheepdogs operate in "yellow" and are prepared at a moment's notice to escalate to "orange" or "red."
-
-
-	
-  * Though the warrior trains for violence, and can withstand the psychological impact of violence, he or she abhors violence.
-
-
-	
-  * The largest part of the unbeatable warrior's training is in identifying threats, and diffusing them. Only when all else fails, will the warrior engage in a violent event to end the threat. When this happens, he or she does so with an offensive mind that terrifies their opponent.
-
-
+- The largest part of the unbeatable warrior's training is in identifying threats, and diffusing them. Only when all else fails, will the warrior engage in a violent event to end the threat. When this happens, he or she does so with an offensive mind that terrifies their opponent.
 
 **FIVE CRITICAL SKILLS FOR DEVELOPING AN UNBEATABLE MIND**
 
@@ -116,70 +80,44 @@ Events trigger our beliefs, which trigger our unconscious dialogue, which trigge
 When using a power statement ("Easy Day!") our bodies must also get in the game. A power posture reinforces the power statement.
 
 **Key Insights**
+
 There are 5 primary skills that you must master to develop Unbeatable Mind mental toughness. These are:
 
+- **Mental models** can be very effective to streamline and for power decision-making. Models such as Boyd's OODA loop, the SMEAC mission planning process and the Integral AQAL model are all part of the Unbeatable training at SEALFIT Academy.
 
+- **Goal setting** has many nuances and is essential for developing momentum and direction toward personal and professional objectives. Proper goal setting is an important skill to nurture.
 
-	
-  * **Mental models** can be very effective to streamline and for power decision-making. Models such as Boyd's OODA loop, the SMEAC mission planning process and the Integral AQAL model are all part of the Unbeatable training at SEALFIT Academy.
+- **Breath control** is a practice that has powerful benefits in many areas. Practicing box breathing in a quiet setting is a concentration practice that will spill over to more naturally use the relaxation controlled breathing during strenuous exercise or any event that is stressful.
 
-
-	
-  * **Goal setting** has many nuances and is essential for developing momentum and direction toward personal and professional objectives. Proper goal setting is an important skill to nurture.
-
-
-	
-  * **Breath control** is a practice that has powerful benefits in many areas. Practicing box breathing in a quiet setting is a concentration practice that will spill over to more naturally use the relaxation controlled breathing during strenuous exercise or any event that is stressful.
-
-
-	
-  * **Visualization** and **positivity** are important compliments to the first three skills. Combined as a "suite of mental toughness skills" the 5 skills are comprehensive and complete. Positive self-talk, and eradicating negative feedback loops, is essential for charging your mind and energy with power and to attract the right people and circumstances into your life.
-
-
+- **Visualization** and **positivity** are important compliments to the first three skills. Combined as a "suite of mental toughness skills" the 5 skills are comprehensive and complete. Positive self-talk, and eradicating negative feedback loops, is essential for charging your mind and energy with power and to attract the right people and circumstances into your life.
 
 **SIX CORE VALUES OF THE UNBEATABLE MIND**
 
 **Key Insights**
+
 Values must be powerful, meaningful to you, and they must be practiced daily to become habit.
 
 Values are displayed in action.
 
 The SEALFIT values are drawn from the Navy SEAL ethos, and include:
 
+- Loyalty
 
+- Honor and Integrity
 
-	
-  * Loyalty
+- Responsibility and Accountability
 
+- Leadership and Teamwork (follower-ship)
 
-	
-  * Honor and Integrity
+- Discipline
 
+- Hard work every day (the only easy day was yesterday)
 
-	
-  * Responsibility and Accountability
-
-
-	
-  * Leadership and Teamwork (follower-ship)
-
-
-	
-  * Discipline
-
-
-	
-  * Hard work every day (the only easy day was yesterday)
-
-
-	
-  * Innovation
-
-
+- Innovation
 
 Values guide our actions and keep us from veering off track. They are a perishable skill. If we lose sight of a value, or stop practicing it and it wanes, then we can easily go off course and do some damage to our reputations, or worse.
 
-You must keep a **daily journal** where you can track your goals, values, most important tasks and projects. I am sure most of you do this already, but just in case…do it! This is both a daily focus tool, as well as a reflection tool. It is priceless when used well.
+You must keep a **daily journal** where you can track your goals, values, most important tasks and projects. I am sure most of you do this already, but just in case... do it! This is both a daily focus tool, as well as a reflection tool. It is priceless when used well.
 
 The unbeatable mind suffers in silence and "embraces the suck." This is a trained quality that comes through a deliberate internalization of any expression of pain and discomfort.
 
@@ -188,39 +126,21 @@ Developing an Unbeatable Mind is a lifetime process. Mental toughness is a peris
 **EIGHT TRAITS OF THE UNBEATABLE MIND**
 
 **Key Insights**
+
 Warriors display a common set of 8 character traits of an unbeatable mind. These 8 traits are trained to be habits in the warrior.
 
+- Single Point Focus
 
+- Uncommon Resolve
 
-	
-  * Single Point Focus
+- Positive Attitude
 
+- Discernment
 
-	
-  * Uncommon Resolve
+- Unflappable
 
+- High Pain Tolerance
 
-	
-  * Positive Attitude
+- Other Focused
 
-
-	
-  * Discernment
-
-
-	
-  * Unflappable
-
-
-	
-  * High Pain Tolerance
-
-
-	
-  * Other Focused
-
-
-	
-  * Humble Acceptance
-
-
+- Humble Acceptance

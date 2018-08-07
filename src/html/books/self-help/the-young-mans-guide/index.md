@@ -2,7 +2,7 @@
 author: ugh
 comments: false
 date: 2017-04-18 17:12:27+00:00
-layout: page
+layout: book.hbs
 link: https://fluidself.org/books/self-help/the-young-mans-guide/
 slug: the-young-mans-guide
 title: The Young Man's Guide - by William A. Alcott
@@ -23,69 +23,37 @@ He that thinks he shall not, most surely will not, please. A man of sense, and k
 
 **The following are a few plain directions for attaining the character of a well-bred man:**
 
+1.  Never weary your company by talking too long, or too frequently.
 
+2.  Always look people in the face when you address them, and generally when they are speaking to you.
 
-	
-  1. Never weary your company by talking too long, or too frequently.
+3.  Attend to a person who is addressing you. Inattention marks a trifling mind, and is a most unpardonable piece of rudeness. It is even an affront; for it is the same thing as saying that his remarks are not worth your attention.
 
+4.  Do not interrupt the person who is speaking by saying yes, or no, or hem, at every sentence; it is the most useless thing that can be. An occasional assent, either by word or action, may be well enough; but even a nod of assent is sometimes repeated till it becomes disgusting.
 
-	
-  2. Always look people in the face when you address them, and generally when they are speaking to you.
+5.  Remember that every person in a company likes to be the hero of that company. Never, therefore, engross the whole conversation to yourself.
 
+6.  Learn to sit or stand still, while another is speaking to you. You will not of course be so rude as to dig in the earth with your feet, or take your penknife from your pocket and pair your nails; but there are a great many other little movements which are scarcely less clownish.
 
-	
-  3. Attend to a person who is addressing you. Inattention marks a trifling mind, and is a most unpardonable piece of rudeness. It is even an affront; for it is the same thing as saying that his remarks are not worth your attention.
+7.  Never anticipate for another, or help him out, as it is called. This is quite a rude affair, and should ever be avoided. Let him conclude his story for himself. It is time enough for you to make corrections or additions afterward, if you deem his account defective. It is also a piece of impoliteness to interrupt another in his remarks.
 
+8.  Say as little of yourself and your friends as possible.
 
-	
-  4. Do not interrupt the person who is speaking by saying yes, or no, or hem, at every sentence; it is the most useless thing that can be. An occasional assent, either by word or action, may be well enough; but even a nod of assent is sometimes repeated till it becomes disgusting.
+9.  Make it a rule never to accuse, without due consideration, any body or association of men.
 
-
-	
-  5. Remember that every person in a company likes to be the hero of that company. Never, therefore, engross the whole conversation to yourself.
-
-
-	
-  6. Learn to sit or stand still, while another is speaking to you. You will not of course be so rude as to dig in the earth with your feet, or take your penknife from your pocket and pair your nails; but there are a great many other little movements which are scarcely less clownish. 
-
-
-	
-  7. Never anticipate for another, or help him out, as it is called. This is quite a rude affair, and should ever be avoided. Let him conclude his story for himself. It is time enough for you to make corrections or additions afterward, if you deem his account defective. It is also a piece of impoliteness to interrupt another in his remarks.
-
-
-	
-  8. Say as little of yourself and your friends as possible. 
-
-
-	
-  9. Make it a rule never to accuse, without due consideration, any body or association of men. 
-
-
-	
-  10. Never try to appear more wise or learned than the rest of the company. Not that you should affect ignorance; but endeavor to remain within your own proper sphere.
-
-
+10. Never try to appear more wise or learned than the rest of the company. Not that you should affect ignorance; but endeavor to remain within your own proper sphere.
 
 On account of meeting with much that disgusts us, many are tempted to avoid society generally. The frivolous conversation, and still more frivolous conduct, which they meet with, they regard as a waste of time, and perhaps even deem it a duty to resign themselves to solitude. This, however, is a great mistake. Those who have been most useful to mankind acted very differently. They mingled with the world, in hopes to do something towards reforming it.
 
 Every young man, on setting out in the world, should make it a rule, never to trust any thing of consequence to another, which he can, without too much difficulty, perform himself.
 
-	
-  1. Because, let a person have my interest ever so much at heart, I am sure I regard it more myself.
+1.  Because, let a person have my interest ever so much at heart, I am sure I regard it more myself.
 
+2.  Nothing is more difficult than to know, in all cases, the characters of those we confide in. How can we expect to understand the characters of others, when we scarcely know our own? Which of us can know, positively, that he shall never be guilty of another vice or weakness, or yield to another temptation, and thus forfeit public confidence? Who, then, will needlessly trust another, when he can hardly be sure of himself?
 
-	
-  2. Nothing is more difficult than to know, in all cases, the characters of those we confide in. How can we expect to understand the characters of others, when we scarcely know our own? Which of us can know, positively, that he shall never be guilty of another vice or weakness, or yield to another temptation, and thus forfeit public confidence? Who, then, will needlessly trust another, when he can hardly be sure of himself?
+3.  No substitute we can employ, can understand our business as well as ourselves.
 
-
-	
-  3. No substitute we can employ, can understand our business as well as ourselves.
-
-
-	
-  4. We can change our measures according to changing circumstances; which gives us those opportunities of doing things in the best way, of which another will not feel justified in availing himself.
-
-
+4.  We can change our measures according to changing circumstances; which gives us those opportunities of doing things in the best way, of which another will not feel justified in availing himself.
 
 **How to know with whom to deal.** There are two maxims in common life that seem to clash with each other, most pointedly. The first is, 'Use every precaution with a stranger, that you would wish you had done, should he turn out to be a villain;' and secondly, 'Treat every man as an honest man, until he proves to be otherwise.' Now there is good advice in both these maxims. By this I mean that they may both be observed, to a certain extent, without interfering with each other. You may be cautious about hastily becoming acquainted with a stranger, and yet so far as you have any concern with him, treat him like an honest man. No reasonable person will complain if you do not unbosom yourself to him at once. And if he is unreasonable, you will not wish for an intimate acquaintance with him.
 

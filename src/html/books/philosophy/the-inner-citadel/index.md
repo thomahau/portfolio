@@ -2,7 +2,7 @@
 author: ugh
 comments: false
 date: 2017-05-04 07:50:24+00:00
-layout: page
+layout: book.hbs
 link: https://fluidself.org/books/philosophy/the-inner-citadel/
 slug: the-inner-citadel
 title: 'The Inner Citadel: The Meditations of Marcus Aurelius - by Pierre Hadot'
@@ -12,27 +12,25 @@ wordpress_id: 1229
 [![](http://fluidself.org/wp-content/uploads/2017/05/hadot_meditations_table.jpg)](http://fluidself.org/wp-content/uploads/2017/05/hadot_meditations_table.jpg)
 
 "Always and everywhere, it depends on you
+
 - piously to rejoice in the present conjunction of events (2);
 - to conduct yourself with justice toward whatever people are present (3);
 - to apply the rules of discernment to your present representation (1), so that
-nothing nonobjective may infiltrate its way in."
+  nothing nonobjective may infiltrate its way in."
 
 "The following are enough for you:
+
 - your present value-judgment (1), as long as it is objective;
 - your present action (3), as long as it is accomplished in the service of the human
-community;
+  community;
 - your present inner disposition (2), as long as it finds its joy in every conjunction of
-events brought about by the external cause."
+  events brought about by the external cause."
 
 The Stoic philosophical life consists essentially in mastering one's inner discourse. Everything in an individual's life depends on how he represents things to himself--in other words, how he tells them to himself in inner dialogue. "It is not things that trouble us," as Epictetus said, "but our judgments about things," in other words, our inner discourse about things. As he wrote the _Meditations_, Marcus was thus practicing Stoic spiritual exercises. He was using writing as a technique or procedure in order to influence himself, and to transform his inner discourse by meditating on the Stoic dogmas and rules of life.
 
 Basing his view on the traditional and fundamental Stoic distinction between those things which do not depend upon our will and those which do, Epictetus enumerates the three psychological operations as follows:
 
-
-
 <blockquote>What depends on us are value-judgments, impulses toward action, and desire or aversion; in a word, everything which is our own business. What does not depend on us are the body, wealth, honors, and high positions in office; in a word, everything which is not our own business.</blockquote>
-
-
 
 Here, we can glimpse one of the Stoics' most fundamental attitudes: the delimitation of our own sphere of liberty as an impregnable islet of autonomy, in the midst of the vast river of events and of Destiny.
 

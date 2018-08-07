@@ -2,20 +2,12 @@
 author: ugh
 comments: false
 date: 2017-04-27 11:52:14+00:00
-layout: page
+layout: book.hbs
 link: https://fluidself.org/books/philosophy/a-guide-to-the-good-life/
 slug: a-guide-to-the-good-life
 title: 'A Guide to the Good Life: The Ancient Art of Stoic Joy - by William B. Irvine'
 wordpress_id: 1169
 ---
-
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0195374614&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=fluidself-20)](https://www.amazon.com/gp/product/0195374614/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0195374614&linkCode=as2&tag=fluidself-20&linkId=06ec0e6256d6b236c5a557759b149c68)![](//ir-na.amazon-adsystem.com/e/ir?t=fluidself-20&l=am2&o=1&a=0195374614)
-**Go to the [Amazon page](http://amzn.to/2sWUDsa)** for details and reviews.
-
-
-
-### my notes
-
 
 Stoicism and Zen have certain things in common. They both, for example, stress the importance of contemplating the transitory nature of the world around us and the importance of mastering desire, to the extent that it is possible to do so. They also advise us to pursue tranquility and give us advice on how to attain and maintain it. There was also agreement that one wonderful way to tame our tendency to always want more is to persuade ourselves to want the things we already have.
 
@@ -114,10 +106,3 @@ I came to realize that Zen is incompatible with my personality. I am a relentles
 I have discovered in myself a desire to have my Stoicism tested. I already mentioned my desire to be insulted: I want to see whether I will respond to insults in a Stoically appropriate manner. I have likewise gone out of my way to put myself into situations that test my courage and willpower, in part to see whether I can pass such tests.
 
 I was struck by how natural and appropriate it is to invoke Stoic principles to help someone cope with the challenges of old age and ill health.
-
-
-
-* * *
-
-
-**Buy the book:** [A Guide to the Good Life: The Ancient Art of Stoic Joy](https://www.amazon.com/gp/product/0195374614/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0195374614&linkCode=as2&tag=fluidself-20&linkId=a427e90a325afa36d62a8f6782360aa3)![](//ir-na.amazon-adsystem.com/e/ir?t=fluidself-20&l=am2&o=1&a=0195374614)

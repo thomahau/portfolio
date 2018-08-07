@@ -84,12 +84,31 @@ header,
 }
 
 section p,
-section h3 {
+section h3,
+section table {
   padding: 0 10px;
 }
 
 section img {
   width: 100%;
+}
+
+.button-group {
+  margin: 25px 0;
+}
+
+.button {
+  text-decoration: none;
+  color: #333;
+  width: 80px;
+  border: 2px solid black;
+  padding: 6px 9px;
+  margin-right: 15px;
+}
+
+.button:hover,
+.button:focus {
+  background-color: yellow;
 }
 
 @media only screen and (min-width: 900px) {

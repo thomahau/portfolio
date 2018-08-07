@@ -2,7 +2,7 @@
 author: ugh
 comments: false
 date: 2017-05-09 17:20:53+00:00
-layout: page
+layout: book.hbs
 link: https://fluidself.org/books/psychology/willpower/
 slug: willpower
 title: 'Willpower: Rediscovering the Greatest Human Strength - by Roy F. Baumeister,
@@ -16,7 +16,7 @@ When people in laboratory experiments exercise mental self-control, their pulse 
 
 Monthly plans > Daily plans
 
-Closing a door on an option is experienced as a loss, and people are willing to pay a price to avoid the emotion of loss. 
+Closing a door on an option is experienced as a loss, and people are willing to pay a price to avoid the emotion of loss.
 
 **The Zeigarnik effect:** Uncompleted tasks and unmet goals tend to pop into one's mind. Once the task is completed and the goal reached, however, this stream of reminders comes to a stop. The unconscious is asking the conscious mind to make a plan. The unconscious mind apparently can't do this on its own, so it nags the conscious mind to make a plan with specifics like time, place, and opportunity. Once the plan is formed, the unconscious can stop nagging the conscious mind with reminders.
 

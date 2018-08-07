@@ -2,7 +2,7 @@
 author: ugh
 comments: false
 date: 2017-01-21 14:15:50+00:00
-layout: page
+layout: book.hbs
 link: https://fluidself.org/books/fiction/look-homeward-angel/
 slug: look-homeward-angel
 title: 'Look Homeward, Angel: A Story of the Buried Life - by Thomas Wolfe'

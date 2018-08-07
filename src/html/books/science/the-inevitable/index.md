@@ -2,7 +2,7 @@
 author: ugh
 comments: false
 date: 2017-01-11 20:46:58+00:00
-layout: page
+layout: book.hbs
 link: https://fluidself.org/books/science/the-inevitable/
 slug: the-inevitable
 title: 'The Inevitable: Understanding the 12 Technological Forces That Will Shape
@@ -54,35 +54,21 @@ Now we are transitioning into the third age of computation. Pages and browsers a
 
 When copies are free, you need to sell things that cannot be copied. Well, what can't be copied? Trust, for instance. There are a number of other qualities similar to trust that are difficult to copy and thus become valuable in this cloud economy. The best way to see them is to start with a simple question: Why would anyone ever pay for something they could get for free? And when they pay for something they could get for free, what are they purchasing? In a real sense, these uncopyable values are things that are "better than free." Free is good, but these are better since you'll pay for them. I call these qualities "generatives." A generative value is a quality or attribute that must be generated at the time of the transaction. A generative thing cannot be copied, cloned, stored, and warehoused. A generative cannot be faked or replicated. It is generated uniquely, for that particular exchange, in real time. Generative qualities add value to free copies and therefore are something that can be sold. Here are eight generatives that are "better than free."
 
+- Immediacy
 
+- Personalization
 
-	
-  * Immediacy
+- Interpretation
 
-	
-  * Personalization
+- Authenticity
 
-	
-  * Interpretation
+- Accessibility
 
-	
-  * Authenticity
+- Embodiment. Live concert tours, live TED talks, live radio shows, pop-up food tours all speak to the power and value of a paid ephemeral embodiment of something you could download for free.
 
-	
-  * Accessibility
+- Patronage. Deep down, avid audiences and fans want to pay creators. Fans love to reward artists, musicians, authors, actors, and other creators with the tokens of their appreciation, because it allows them to connect with people they admire. But they will pay only under four conditions that are not often met: 1) It must be extremely easy to do; 2) The amount must be reasonable; 3) There's clear benefit to them for paying; and 4) It's clear the money will directly benefit the creators.
 
-	
-  * Embodiment. Live concert tours, live TED talks, live radio shows, pop-up food tours all speak to the power and value of a paid ephemeral embodiment of something you could download for free.
-
-	
-  * Patronage. Deep down, avid audiences and fans want to pay creators. Fans love to reward artists, musicians, authors, actors, and other creators with the tokens of their appreciation, because it allows them to connect with people they admire. But they will pay only under four conditions that are not often met: 1) It must be extremely easy to do; 2) The amount must be reasonable; 3) There's clear benefit to them for paying; and 4) It's clear the money will directly benefit the creators.
-
-	
-  * Discoverability
-
-
-
-Once something, like music, is digitized, it becomes a liquid that can be flexed and linked. Success in this new realm requires mastering the new liquidity. What counts are not the number of copies but the number of ways a copy can be linked, manipulated, annotated, tagged, highlighted, bookmarked, translated, and enlivened by other media. Value has shifted away from a copy toward the many ways to recall, annotate, personalize, edit, authenticate, display, mark, transfer, and engage a work. What counts is how well the work flows.
+- Discoverability. Once something, like music, is digitized, it becomes a liquid that can be flexed and linked. Success in this new realm requires mastering the new liquidity. What counts are not the number of copies but the number of ways a copy can be linked, manipulated, annotated, tagged, highlighted, bookmarked, translated, and enlivened by other media. Value has shifted away from a copy toward the many ways to recall, annotate, personalize, edit, authenticate, display, mark, transfer, and engage a work. What counts is how well the work flows.
 
 **4) SCREENING**
 
@@ -154,21 +140,13 @@ There is an equally important domain of tracking that is not conscious or active
 
 An embrace of an expanded version of lifelogging would offer these four categories of benefits:
 
+- A constant 24/7/365 monitoring of vital body measurements.
 
+- An interactive, extended memory of people you met, conversations you had, places you visited, and events you participated in.
 
-	
-  * A constant 24/7/365 monitoring of vital body measurements.
+- A complete passive archive of everything that you have ever produced, wrote, or said.
 
-	
-  * An interactive, extended memory of people you met, conversations you had, places you visited, and events you participated in.
-
-	
-  * A complete passive archive of everything that you have ever produced, wrote, or said.
-
-	
-  * A way of organizing, shaping, and "reading" your own life.
-
-
+- A way of organizing, shaping, and "reading" your own life.
 
 Those who embrace the internet's tendency to copy and seek value that can't be easily copied (through personalization, embodiment, authentication, etc.) tend to prosper, while those who deny, prohibit, and try to thwart the network's eagerness to copy are left behind to catch up later. Tracking follows a similar inevitable dynamic. Indeed, we can swap the term "tracking" in the preceding paragraphs for "copying" in the following paragraphs to get a sense of its parallels.
 
