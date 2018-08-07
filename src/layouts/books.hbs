@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {{> meta root='../'}}
+</head>
+
+<body>
+    <div class="container">
+        {{> navigation root='../' }}
+        <main class="main-wrapper" role="main">
+            <section>
+                <div class="section-header">
+                    <h2 class="h2-decor">{{ title }}</h2>
+                </div>
+                {{{ contents }}}
+            </section>
+        </main>
+    </div>
+</body>
+
+</html>
