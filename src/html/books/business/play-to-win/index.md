@@ -44,7 +44,7 @@ We make stuff up, it becomes what is true (our maps), and we respond out of thos
 
 **Stop, Challenge, and Choose:** A way of going from feeling an emotion that is different from positive or neutral (emotional cues), to managing it, feeling better, and responding more appropriately.
 
-[![](http://fluidself.org/wp-content/uploads/2017/04/playing_to_win_table_1.jpg)](http://fluidself.org/wp-content/uploads/2017/04/playing_to_win_table_1.jpg)
+[![](https://fluidself.org/images/playing_to_win_table_1.jpg)](https://fluidself.org/images/playing_to_win_table_1.jpg)
 
 **Thinking Rationally**
 
@@ -92,4 +92,4 @@ When we choose to avoid the Four Fatal Fears, we guarantee ourselves that when w
 
 Intention plus action equals results. Empathy, understanding, acceptance, and involvement--taking action--are what will propel us on our journey to our true selves.
 
-[![](http://fluidself.org/wp-content/uploads/2017/04/playing_to_win_table_2.jpg)](http://fluidself.org/wp-content/uploads/2017/04/playing_to_win_table_2.jpg)
+[![](https://fluidself.org/images/playing_to_win_table_2.jpg)](https://fluidself.org/images/playing_to_win_table_2.jpg)

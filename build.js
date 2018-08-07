@@ -27,7 +27,7 @@ const ms = metalsmith(dir.base)
   .metadata({
     site: {
       name: 'Fluid Self',
-      description: 'Projects and book notes'
+      description: "Thomas Hauge's portfolio site and book notes"
     }
   })
   .source(dir.source + 'html/')
@@ -45,8 +45,8 @@ const ms = metalsmith(dir.base)
   )
   .use(layouts(templateConfig));
 
-if (htmlmin) ms.use(htmlmin()); // minify production HTML
-// start test server
+if (htmlmin) ms.use(htmlmin());
+
 if (serve)
   ms.use(
     serve({

@@ -89,6 +89,18 @@ section table {
   padding: 0 10px;
 }
 
+table {
+  border-collapse: collapse;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+th,
+td {
+  border: 1px solid gray;
+  padding: 2px;
+}
+
 section img {
   width: 100%;
 }

@@ -41,7 +41,42 @@ Interestingly, if you were to keep track of the activities that induce wu-wei in
 
 **EARLY CHINESE THINKERS AND TEXTS**
 
-![Early Chinese thinkers and texts](http://fluidself.org/wp-content/uploads/2017/02/trying_not_to_try_table.jpg)
+<table>
+  <thead>
+    <tr>
+      <td><strong>THINKER(S)</strong></td>
+      <td><strong>SCHOOL</strong></td>
+      <td><strong>RELEVANT TEXTS</strong></td>
+      <td><strong>STRATEGY</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Confucius/Xunzi</td>
+      <td>Confucianism</td>
+      <td>The Analects, the Xunzi</td>
+      <td>"Carving and polishing"; try really hard for a really long time</td>
+    </tr>
+    <tr>
+      <td>Laozi</td>
+      <td>Daoism</td>
+      <td>The Laozi or Daodejing</td>
+      <td>"Uncarved block"; stop trying immediately, go home</td>
+    </tr>
+    <tr>
+      <td>Mencius</td>
+      <td>Confucianism</td>
+      <td>The Mencius</td>
+      <td>"Cultivate the sprouts"; try, but don't force it</td>
+    </tr>
+    <tr>
+      <td>Zhuangzi</td>
+      <td>Daoism</td>
+      <td>The Zhuangzi</td>
+      <td>"Let go"; try to forget all about trying or not trying, just go with the flow</td>
+    </tr>
+  </tbody>
+</table>
 
 The terms Confucianism and Daoism are a bit anachronistic but helpful in that they pick out two very broad strategies for cultivating wu-wei: trying (education, cultural training) and not trying (de-cultivation, forgetting).
 

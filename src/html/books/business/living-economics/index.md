@@ -125,9 +125,29 @@ The intellectual landscape of modern political economy has shifted considerably 
 
 There is an interesting relationship between the epistemic outlook of economics and the disposition of the economist that plays itself out in the history of development economics. To simplify two continuums down to their poles, we can see the discipline of economics as moving between "epistemic modesty" and "epistemic hubris" in the way it understands its own claims to scientific knowledge (particularly in the sense of prediction and control), and we can envision economists as approaching their work as either "students of society" or "saviors of society." The interaction between the dominant culture of the discipline and the disposition of the economist is portrayed in the following table.
 
-[![](http://fluidself.org/wp-content/uploads/2017/04/living_economics_table.jpg)](http://fluidself.org/wp-content/uploads/2017/04/living_economics_table.jpg)
+<table>
+  <thead>
+    <tr>
+      <td></td>
+      <td><strong>Economist as Student</strong></td>
+      <td><strong>Economist as Savior</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Economics has epistemic modesty.</td>
+      <td>Happy cautionary prophet</td>
+      <td>Frustrated engineer</td>
+    </tr>
+    <tr>
+      <td>Economics has epistemic hubris.</td>
+      <td>Frustrated cautionary prophet</td>
+      <td>Practicing engineer</td>
+    </tr>
+  </tbody>
+</table>
 
-We broadly categorize the results in terms of "cautionary prophets" or "engineers." We use "prophet" in the sense of a person who offers predictive warnings ("if you do _x_, _y_ will happen") rather than someone who is divinely inspired or the like. By using the adjective "cautionary," we are suggesting that the economist as prophet is largely in the business of cautioning us about the limits of what we can and cannot do. The economist as prophet is more likely to utter "Thou Cannot" than "Thou Shalt Not." This sort of economist has a default, though not inviolable, respect for the workings and value of institutions that have survived the process of social evolution. This puts him or her in the position of cautioning those who would remake or ignore the lasting results of those historical processes.
+We broadly categorize the results in terms of "cautionary prophets" or "engineers." We use "prophet" in the sense of a person who offers predictive warnings ("if you do <em>x</em>, <em>y</em> will happen") rather than someone who is divinely inspired or the like. By using the adjective "cautionary," we are suggesting that the economist as prophet is largely in the business of cautioning us about the limits of what we can and cannot do. The economist as prophet is more likely to utter "Thou Cannot" than "Thou Shalt Not." This sort of economist has a default, though not inviolable, respect for the workings and value of institutions that have survived the process of social evolution. This puts him or her in the position of cautioning those who would remake or ignore the lasting results of those historical processes.
 
 Over the last 150 years, the economist as engineer, by contrast, has moved through two distinct, though related, worldviews with respect to historically emergent institutions. During the late nineteenth century, a period characterized by "frustration," the engineering-oriented economist was interested in the role of institutions but concerned with designing new social institutions to replace those seen as responsible for the problems of the day. The spirit of science and engineering, which had been apparently so successful in taming nature, would be used to rein in the forcces of the social world so that they would serve the cause of human betterment by being the results of human reason rather than blind evolution. By the middle of the twentieth century, with the failures of wholesale institutional redesign more obvious, the economist as engineer was more likely to ignore historically emergent institutions, focusing instead on the problems of optimal resource and income allocation as explored in what amounted to an institutional vacuum. What unites the engineers of the two centuries, and makes grouping them together intellectually coherent, is their rejection of the cautionary prophet's default respect for historically successful social institutions. The older ones rejected it because they thought they could do better; the more recent ones simply ignore the issue.
 

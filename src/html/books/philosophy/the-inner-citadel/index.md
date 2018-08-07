@@ -9,7 +9,32 @@ title: 'The Inner Citadel: The Meditations of Marcus Aurelius - by Pierre Hadot'
 wordpress_id: 1229
 ---
 
-[![](http://fluidself.org/wp-content/uploads/2017/05/hadot_meditations_table.jpg)](http://fluidself.org/wp-content/uploads/2017/05/hadot_meditations_table.jpg)
+<table>
+  <thead>
+    <tr>
+      <td><strong>activity</strong></td>
+      <td><strong>domain of reality</strong></td>
+      <td><strong>inner attitude</strong></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>(1) judgment</td>
+      <td>faculty of judgment</td>
+      <td>objectivity</td>
+    </tr>
+    <tr>
+      <td>(2) desire</td>
+      <td>universal nature</td>
+      <td>consent with Destiny</td>
+    </tr>
+    <tr>
+      <td>(3) impulse toward action</td>
+      <td>human Nature</td>
+      <td>justice and altruism</td>
+    </tr>
+  </tbody>
+</table>
 
 "Always and everywhere, it depends on you
 
