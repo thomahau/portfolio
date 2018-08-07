@@ -4,4 +4,4 @@ My portfolio site and book notes repository lives at [https://fluidself.org/](ht
 
 ## Technology
 
-HTML, CSS, [Metalsmith](http://www.metalsmith.io/).
+HTML, CSS, [Metalsmith](http://www.metalsmith.io/), [Handlebars](http://handlebarsjs.com/)
