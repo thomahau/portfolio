@@ -23,31 +23,35 @@ const templateConfig = {
 };
 
 const ms = metalsmith(dir.base)
-  .clean(true)
+  .clean(true) // clean build folder
   .metadata({
+    // add meta data to every page
     site: {
       name: 'Fluid Self',
       description: "Thomas Hauge's portfolio site and book notes"
     }
   })
-  .source(dir.source + 'html/')
-  .destination(dir.dest)
-  .use(markdown())
+  .source(dir.source + 'html/') // source folder
+  .destination(dir.dest) // build folder
+  .use(markdown()) // convert markdown
   .use(
+    // generate permalinks
     permalinks({
       relative: false
     })
   )
   .use(
+    // enable Handlebars partials
     discoverPartials({
       directory: dir.source + 'partials/'
     })
   )
   .use(layouts(templateConfig));
 
-if (htmlmin) ms.use(htmlmin());
+if (htmlmin) ms.use(htmlmin()); // minify production HTML
 
 if (serve)
+  // start test server when not running production build
   ms.use(
     serve({
       port: 3000,
@@ -63,11 +67,13 @@ if (serve)
   );
 
 ms.use(
+  // copy assets: CSS, images, etc.
   assets({
     source: dir.source + 'assets/',
     destination: './'
   })
 ).build(function(err) {
+  // build
   if (err) {
     console.log(err);
   }
