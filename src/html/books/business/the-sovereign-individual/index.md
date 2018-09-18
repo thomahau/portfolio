@@ -110,9 +110,7 @@ The shift to an Information Society has altered megapolitical conditions in cruc
 
 4. Information technology lowers capital costs, which also tends to increase competition by facilitating entrepreneurship and allowing more people to work independently.
 
-5. Information technology shortens the product cycle. This makes for more rapid product obsolescence. This, too, tends to make any gains that might be achieved by extorting above-market wages short-lived.
-
-Grasping for temporarily higher wages at the expense of placing your job in jeopardy is like burning your furniture to make the house a few degrees warmer.
+5. Information technology shortens the product cycle. This makes for more rapid product obsolescence. This, too, tends to make any gains that might be achieved by extorting above-market wages short-lived. Grasping for temporarily higher wages at the expense of placing your job in jeopardy is like burning your furniture to make the house a few degrees warmer.
 
 6. Information technology is not sequential but simultaneous and dispersed. Unlike the assembly line, information technology can accommodate multiple processes at the same time.
 
