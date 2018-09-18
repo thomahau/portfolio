@@ -9,6 +9,8 @@ title: FICTION
 wordpress_id: 104
 ---
 
+[A Man In Love - by Karl Ove Knausgaard](/books/fiction/a-man-in-love/)
+
 [A River Runs Through It and Other Stories - by Norman Maclean](/books/fiction/a-river-runs-through-it/)
 
 [A Sport and a Pastime: Open Road - by James Salter](/books/fiction/a-sport-and-a-pastime/)

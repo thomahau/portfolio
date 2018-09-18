@@ -75,6 +75,8 @@ wordpress_id: 102
 
 [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal - by Jim Loehr and Tony Schwartz](/books/business/the-power-of-full-engagement/)
 
+[The Sovereign Individual - by James Dale Davidson and William Rees-Mogg](/books/business/the-sovereign-individual/)
+
 [The Warren Buffett Way - by Robert G. Hagstrom](/books/business/the-warren-buffett-way/)
 
 [What I Learned Losing A Million Dollars - by Brendan Moynihan](/books/business/what-i-learned-losing-a-million-dollars/)

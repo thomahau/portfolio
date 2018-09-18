@@ -25,6 +25,8 @@ wordpress_id: 119
 
 [Superintelligence - by Nick Bostrom](/books/science/superintelligence/)
 
+[The Beginning of Infinity - by David Deutsch](/books/science/the-beginning-of-infinity/)
+
 [The Blank Slate: The Modern Denial of Human Nature - by Steven Pinker](/books/science/the-blank-slate/)
 
 [The Demon-Haunted World: Science As a Candle In The Dark - by Carl Sagan](/books/science/the-demon-haunted-world/)
