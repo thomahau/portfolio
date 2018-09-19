@@ -31,6 +31,8 @@ wordpress_id: 117
 
 [Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness - by Jon Kabat-Zinn](/books/psychology/full-catastrophe-living/)
 
+[How Emotions Are Made: The Secret Life of the Brain - by Lisa Feldman Barrett](/books/psychology/how-emotions-are-made/)
+
 [How We Decide - by Jonah Lehrer](/books/psychology/how-we-decide/)
 
 [Influence: The Psychology of Persuasion - by Robert B. Cialdini](/books/psychology/influence/)
