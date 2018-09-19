@@ -49,6 +49,8 @@ wordpress_id: 104
 
 [Money - by Martin Amis](/books/fiction/money/)
 
+[My Struggle: Book One - by Karl Ove Knausgaard](/books/fiction/my-struggle-book-one/)
+
 [Narcissus and Goldmund - by Hermann Hesse](/books/fiction/narcissus-and-goldmund/)
 
 [Norwegian Wood - by Haruki Murakami](/books/fiction/norwegian-wood/)
@@ -73,9 +75,13 @@ wordpress_id: 104
 
 [The Gnoll Credo - by J. Stanton](/books/fiction/the-gnoll-credo/)
 
+[The Last Samurai - by Helen Dewitt](/books/fiction/the-last-samurai/)
+
 [The Magus - by John Fowles](/books/fiction/the-magus/)
 
 [The Moviegoer - by Walker Percy](/books/fiction/the-moviegoer/)
+
+[The Nix - by Nathan Hill](/books/fiction/the-nix/)
 
 [The Player of Games - by Iain M. Banks](/books/fiction/the-player-of-games/)
 
