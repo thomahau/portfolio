@@ -83,6 +83,8 @@ wordpress_id: 117
 
 [The Happiness Trap: How to Stop Struggling and Start Living: A Guide to ACT - by Russ Harris](/books/psychology/the-happiness-trap/)
 
+[The Mindful Geek: Mindfulness Meditation for Secular Skeptics - by Michael W. Taft](/books/psychology/the-mindful-geek/)
+
 [The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary Psychology - by Robert Wright](/books/psychology/the-moral-animal/)
 
 [The Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys - by James Fadiman Ph.D.](/books/psychology/the-psychedelic-explorers-guide/)
