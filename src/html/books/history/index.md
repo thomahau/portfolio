@@ -9,6 +9,8 @@ title: HISTORY
 wordpress_id: 109
 ---
 
+[Homo Deus - by Yuval Noah Harari](/books/history/homo-deus/)
+
 [How Should We Live?: Great Ideas from the Past for Everyday Life - by Roman Krznaric](/books/history/how-should-we-live/)
 
 [Lord Chesterfield's Letters - by Lord Chesterfield](/books/history/lord-chesterfields-letters/)
