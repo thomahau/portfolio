@@ -91,6 +91,8 @@ wordpress_id: 115
 
 [The Outsider - by Colin Wilson](/books/philosophy/the-outsider/)
 
+[The Path: What Chinese Philosophers Can Teach Us About the Good Life - by Michael Puett](/books/philosophy/the-path/)
+
 [The Present Alone Is Our Happiness - by Pierre Hadot](/books/philosophy/the-present-alone-is-our-happiness/)
 
 [The Prophet - by Kahlil Gibran](/books/philosophy/the-prophet/)
