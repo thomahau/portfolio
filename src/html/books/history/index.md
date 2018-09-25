@@ -17,6 +17,8 @@ wordpress_id: 109
 
 [Nonzero: The Logic of Human Destiny - by Robert Wright](/books/history/nonzero/)
 
+[Sapiens - by Yuval Noah Harari](/books/history/sapiens/)
+
 [The Electric Kool-Aid Acid Test - by Tom Wolfe](/books/history/the-electric-kool-aid-acid-test/)
 
 [The Greatest Minds and Ideas of All Time - by Will Durant](/books/history/the-greatest-minds-and-ideas-of-all-time/)
