@@ -29,8 +29,8 @@ Yet none of these things exists outside the stories that people invent and tell 
 <table>
 <thead>
 <tr>
-<td>New ability</td>
-<td>Wider consequences</td>
+<td><strong>New ability</strong></td>
+<td><strong>Wider consequences</strong></td>
 </tr>
 </thead>
 <tbody>
