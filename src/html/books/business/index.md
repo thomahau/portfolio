@@ -55,6 +55,8 @@ wordpress_id: 102
 
 [Play to Win!: Choosing Growth Over Fear in Work and Life - by Larry Wilson, Hersch Wilson](/books/business/play-to-win/)
 
+[Principles: Life and Work - by Ray Dalio](/books/business/principles/)
+
 [Quitter: Closing the Gap Between Your Day Job & Your Dream Job - by Jon Acuff](/books/business/quitter/)
 
 [Seven Habits of Highly Effective People - by Stephen R. Covey](/books/business/seven-habits-of-highly-effective-people/)
