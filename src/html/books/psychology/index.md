@@ -13,6 +13,8 @@ wordpress_id: 117
 
 [Art of Happiness: A Guide to Developing Life's Most Important Skill - by Matthieu Ricard](/books/psychology/art-of-happiness/)
 
+[Barking Up the Wrong Tree: The Surprising Science Behind Why Everything You Know About Success Is (Mostly) Wrong - by Eric Barker](/books/psychology/barking-up-the-wrong-tree/)
+
 [Blink: The Power of Thinking Without Thinking - by Malcolm Gladwell](/books/psychology/blink/)
 
 [Buddha's Brain: The Practical Neuroscience of Happiness, Love & Wisdom - by Rick Hanson](/books/psychology/buddhas-brain/)
