@@ -53,6 +53,8 @@ wordpress_id: 183
 
 [Semper Virilis - by Brett McKay](/books/self-help/semper-virilis/)
 
+[Solve For Happy: Engineer Your Path to Joy - by Mo Gawdat](/books/self-help/solve-for-happy/)
+
 [Superhuman by Habit - by Tynan](/books/self-help/superhuman-by-habit/)
 
 [The Antidote: Happiness for People Who Can't Stand Positive Thinking - by Oliver Burkeman](/books/self-help/the-antidote/)
