@@ -57,6 +57,8 @@ wordpress_id: 183
 
 [Superhuman by Habit - by Tynan](/books/self-help/superhuman-by-habit/)
 
+[Take the Stairs: 7 Steps to Achieving True Success - by Rory Vaden](/books/self-help/take-the-stairs/)
+
 [The Antidote: Happiness for People Who Can't Stand Positive Thinking - by Oliver Burkeman](/books/self-help/the-antidote/)
 
 [The Compound Effect - by Darren Hardy](/books/self-help/the-compound-effect/)
