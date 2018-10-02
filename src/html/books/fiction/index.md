@@ -89,6 +89,8 @@ wordpress_id: 104
 
 [The Sea-Wolf - by Jack London](/books/fiction/the-sea-wolf/)
 
+[The Secret History - by Donna Tartt](/books/fiction/the-secret-history/)
+
 [The Sheltering Sky - by Paul Bowles](/books/fiction/the-sheltering-sky/)
 
 [The Sun Also Rises - by Ernest Hemingway](/books/fiction/the-sun-also-rises/)
