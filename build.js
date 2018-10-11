@@ -1,4 +1,5 @@
 'use strict';
+require('dotenv').config();
 const devBuild = (process.env.NODE_ENV || '').trim().toLowerCase() !== 'production';
 
 const metalsmith = require('metalsmith');
@@ -10,6 +11,8 @@ const assets = require('metalsmith-assets');
 const htmlmin = devBuild ? null : require('metalsmith-html-minifier');
 const serve = devBuild ? require('metalsmith-serve') : null;
 const watch = devBuild ? require('metalsmith-watch') : null;
+const algolia = require('metalsmith-algolia');
+const _ = require('lodash');
 
 const dir = {
   base: __dirname + '/',
@@ -21,6 +24,16 @@ const templateConfig = {
   directory: dir.source + 'layouts/',
   default: 'index.hbs'
 };
+
+function algoliaFileParser(file, metadata) {
+  const documents = [];
+
+  documents.push({
+    title: metadata.title,
+    url: metadata.link
+  });
+  return documents;
+}
 
 const ms = metalsmith(dir.base)
   .clean(true) // clean build folder
@@ -46,7 +59,24 @@ const ms = metalsmith(dir.base)
       directory: dir.source + 'partials/'
     })
   )
-  .use(layouts(templateConfig));
+  .use(layouts(templateConfig))
+  // add Algolia metadata to all book files
+  .use(function(files, metalsmith, done) {
+    _.map(files, function(file) {
+      return file.layout === 'book.hbs' ? _.extend(file, { algolia: true }) : file;
+    });
+    done();
+  })
+  // index books in Algolia
+  .use(
+    algolia({
+      projectId: process.env.ALGOLIA_APP_ID,
+      privateKey: process.env.ALGOLIA_API_KEY,
+      index: process.env.ALGOLIA_INDEX,
+      clearIndex: true,
+      fileParser: algoliaFileParser
+    })
+  );
 
 if (htmlmin) ms.use(htmlmin()); // minify production HTML
 
