@@ -9,8 +9,6 @@ title: BOOKS
 wordpress_id: 18
 ---
 
-I like to read, and I like to take notes to help me remember the lessons and impressions books give me. These are those notes. They're not meant to be precise summaries, but rather reminders of important concepts. Use them as you see fit.
-
 [Art and Creativity](/books/art/)
 
 [Biographies and Memoirs](/books/biographies/)

@@ -11,9 +11,12 @@
   "author": "Thomas Hauge",
   "license": "ISC",
   "devDependencies": {
+    "dotenv": "^6.1.0",
     "handlebars": "^4.0.11",
     "jstransformer-handlebars": "^1.1.0",
+    "lodash": "^4.17.11",
     "metalsmith": "^2.3.0",
+    "metalsmith-algolia": "^0.1.0",
     "metalsmith-assets": "^0.1.0",
     "metalsmith-discover-partials": "^0.1.0",
     "metalsmith-html-minifier": "^3.0.0",
