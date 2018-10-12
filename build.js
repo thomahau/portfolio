@@ -25,7 +25,7 @@ const templateConfig = {
   default: 'index.hbs'
 };
 
-function algoliaFileParser(file, metadata) {
+function bookFileParser(file, metadata) {
   const documents = [];
 
   documents.push({
@@ -60,21 +60,21 @@ const ms = metalsmith(dir.base)
     })
   )
   .use(layouts(templateConfig))
-  // add Algolia metadata to all book files
+  // add metadata field to all book files
   .use(function(files, metalsmith, done) {
     _.map(files, function(file) {
       return file.layout === 'book.hbs' ? _.extend(file, { algolia: true }) : file;
     });
     done();
   })
-  // index books in Algolia
+  // index books for search
   .use(
     algolia({
       projectId: process.env.ALGOLIA_APP_ID,
       privateKey: process.env.ALGOLIA_API_KEY,
       index: process.env.ALGOLIA_INDEX,
       clearIndex: true,
-      fileParser: algoliaFileParser
+      fileParser: bookFileParser
     })
   );
 
