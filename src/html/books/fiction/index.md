@@ -39,6 +39,8 @@ wordpress_id: 104
 
 [Island - by Aldous Huxley](/books/fiction/island/)
 
+[Jitterbug Perfume - by Tom Robbins](/books/fiction/jitterbug-perfume/)
+
 [Journey to the End of the Night - by Louis-Ferdinand Céline](/books/fiction/journey-to-the-end-of-the-night/)
 
 [Lolita - by Vladimir Nabokov](/books/fiction/lolita/)
