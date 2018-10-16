@@ -27,6 +27,8 @@ wordpress_id: 102
 
 [Flash Boys: A Wall Street Revolt - by Michael Lewis](/books/business/flash-boys/)
 
+[For A New Liberty - by Murray N. Rothbard](/books/business/for-a-new-liberty/)
+
 [Fortune's Formula: The Untold Story of the Scientific Betting System - by William Poundstone](/books/business/fortunes-formula/)
 
 [Get a Job, Build a Real Career, and Defy a Bewildering Economy - by Charles Hugh Smith](/books/business/get-a-job-build-a-real-career-and-defy-a-bewildering-economy/)
