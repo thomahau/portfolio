@@ -71,13 +71,13 @@ When looking at legacy code, instead of moaning and getting frustrated, we shoul
 
 **Technical Practices**
 
-**Automated Testing:** Automated testing enables us, with a click of the button, to have our entire system tested within a few minutes. It gives us confidence to deploy our application into production minutes after the last change was made. The amount of time the business can save avoiding long quality assurance (QA) phases can be measured in days, if not weeks. The feedback loop on the correctness of our code is reduced from weeks to minutes, enabling us to correct any mistakes almost immediately. This reduction in the feedback loop also prevents us from writing more code on top of erroneous code—reducing significantly the overall bug-fixing cost.
+- **Automated Testing:** Automated testing enables us, with a click of the button, to have our entire system tested within a few minutes. It gives us confidence to deploy our application into production minutes after the last change was made. The amount of time the business can save avoiding long quality assurance (QA) phases can be measured in days, if not weeks. The feedback loop on the correctness of our code is reduced from weeks to minutes, enabling us to correct any mistakes almost immediately. This reduction in the feedback loop also prevents us from writing more code on top of erroneous code—reducing significantly the overall bug-fixing cost.
 
-**Test-Driven Development:** Although TDD has “test” in its name, TDD is actually a design practice. When test-driving our code, it becomes very difficult to write complex code. First, because we write just enough code to satisfy the requirements—represented as tests —we discourage overengineering and big design up front (BDUF). Second, whenever our code becomes a bit too complex and bloated, it also becomes difficult to test. Complexity in our code and bad design choices are highlighted by the complexity in maintaining and writing new tests. These tests lead us to re-analyze the design of our code and refactor to make it simpler
+- **Test-Driven Development:** Although TDD has “test” in its name, TDD is actually a design practice. When test-driving our code, it becomes very difficult to write complex code. First, because we write just enough code to satisfy the requirements—represented as tests —we discourage overengineering and big design up front (BDUF). Second, whenever our code becomes a bit too complex and bloated, it also becomes difficult to test. Complexity in our code and bad design choices are highlighted by the complexity in maintaining and writing new tests. These tests lead us to re-analyze the design of our code and refactor to make it simpler
 
-**Continuous Integration:** Every time a developer commits some code, the entire suite of tests is executed and an email is sent to the entire team whenever a test fails. This practice needs to be combined with a “stop and fix” attitude: members of the team must stop whatever they are doing to fix a broken build, which means the problem introduced by the latest change. The advantage of following this practice is that the system is always in a deployable condition and problems don’t accumulate.
+- **Continuous Integration:** Every time a developer commits some code, the entire suite of tests is executed and an email is sent to the entire team whenever a test fails. This practice needs to be combined with a “stop and fix” attitude: members of the team must stop whatever they are doing to fix a broken build, which means the problem introduced by the latest change. The advantage of following this practice is that the system is always in a deployable condition and problems don’t accumulate.
 
-**Refactoring:** The Boy Scout rule says: “Always leave the campground cleaner than you found it.” This is a value that every software craftsman must have when it comes to code. Refactoring without pragmatism can be a dangerous practice. Being professional means to understand trade-offs. Although we want to make the whole system better, we may not need to. There is no point in refactoring a piece of code that hasn’t been changed in years. If we don’t need to change it, chances are we should not be refactoring either. Start refactoring what changes more often. The Boy Scout rule should just be applied when we need to make a change or understand one area of the code, not everywhere
+- **Refactoring:** The Boy Scout rule says: “Always leave the campground cleaner than you found it.” This is a value that every software craftsman must have when it comes to code. Refactoring without pragmatism can be a dangerous practice. Being professional means to understand trade-offs. Although we want to make the whole system better, we may not need to. There is no point in refactoring a piece of code that hasn’t been changed in years. If we don’t need to change it, chances are we should not be refactoring either. Start refactoring what changes more often. The Boy Scout rule should just be applied when we need to make a change or understand one area of the code, not everywhere
 
 **The Long Road**
 
@@ -95,27 +95,27 @@ Recruiting the first developers for a new project is slightly different from rec
 
 **Interview Anti-Patterns**
 
-**Don’t Be a Smart-Ass Interviewer:** Don’t try to make yourself look smarter and better than the candidate. Don’t intimidate the candidate by putting her in a tough situation just for your pleasure. Don’t try to impress the candidate with your job title, responsibilities, and skills. Don’t talk to the candidate as if you were the most powerful person in the world. Simply put, don’t be an ass. Don’t try to look smart by asking tricky and irrelevant questions. Experienced and talented developers will notice it straightaway and won’t be very inclined to work with you. Just be honest and humble. Treat candidates like fellow professional developers, and conduct the interview as if you were having a great technical conversation with someone you respect. Most important, listen to the candidates and keep your mind open. You may actually learn a few things.
+- **Don’t Be a Smart-Ass Interviewer:** Don’t try to make yourself look smarter and better than the candidate. Don’t intimidate the candidate by putting her in a tough situation just for your pleasure. Don’t try to impress the candidate with your job title, responsibilities, and skills. Don’t talk to the candidate as if you were the most powerful person in the world. Simply put, don’t be an ass. Don’t try to look smart by asking tricky and irrelevant questions. Experienced and talented developers will notice it straightaway and won’t be very inclined to work with you. Just be honest and humble. Treat candidates like fellow professional developers, and conduct the interview as if you were having a great technical conversation with someone you respect. Most important, listen to the candidates and keep your mind open. You may actually learn a few things.
 
-**Don’t Use Brainteasers**
+- **Don’t Use Brainteasers**
 
-**Don’t Ask Questions to Which You Don’t Know the Answers**
+- **Don’t Ask Questions to Which You Don’t Know the Answers**
 
-**Don’t Try to Make the Candidate Look Like a Fool**
+- **Don’t Try to Make the Candidate Look Like a Fool**
 
-**Don’t Code on a Piece of Paper**
+- **Don’t Code on a Piece of Paper**
 
-**Don’t Use Algorithms:** If the main problems we have in our system are not about algorithms, we should not use them in our coding interviews. We should focus on giving candidates exercises where they need to design a solution and express the business domain. If we need developers with good skills in Test-Driven Development and design, we should use exercises that reflect that.
+- **Don’t Use Algorithms:** If the main problems we have in our system are not about algorithms, we should not use them in our coding interviews. We should focus on giving candidates exercises where they need to design a solution and express the business domain. If we need developers with good skills in Test-Driven Development and design, we should use exercises that reflect that.
 
 **Culture of Learning**
 
-**Start a Book Club:** Pick a book and tell your colleagues you will start reading it. Tell them what the book is about and check if anyone is interested in having a discussion about it once a week at lunchtime—or any other suitable time slot. If at least one other developer is interested, you are ready to start. If no one is interested, start reading the book you want, but take the time to share what you are learning during informal conversations. Maybe some of the developers who initially were not interested will change their minds and join you.
+- **Start a Book Club:** Pick a book and tell your colleagues you will start reading it. Tell them what the book is about and check if anyone is interested in having a discussion about it once a week at lunchtime—or any other suitable time slot. If at least one other developer is interested, you are ready to start. If no one is interested, start reading the book you want, but take the time to share what you are learning during informal conversations. Maybe some of the developers who initially were not interested will change their minds and join you.
 
-**Encourage Pet-Project Time:** Passionate developers love to have a playground where they can try many new ideas, technologies, and techniques. Ask around. See who has a pet project or is interested in starting one. Make the introductions and organize some time where developers can work on their own thing. If it is not possible to do that during working hours, try early in the morning, lunchtime, or evenings.
+- **Encourage Pet-Project Time:** Passionate developers love to have a playground where they can try many new ideas, technologies, and techniques. Ask around. See who has a pet project or is interested in starting one. Make the introductions and organize some time where developers can work on their own thing. If it is not possible to do that during working hours, try early in the morning, lunchtime, or evenings.
 
-**Be an Example**
+- **Be an Example**
 
-**Focus on Those Who Care:** Not everyone will be moved by your enthusiasm and willingness to change. Focus on the ones who are willing to change. Pair with them. Write tests and review each other’s code. Engage in good conversations; share ideas and information. Have fun with them. Once a few people are having fun, working well together, and using different techniques and approaches, more people will want to join.
+- **Focus on Those Who Care:** Not everyone will be moved by your enthusiasm and willingness to change. Focus on the ones who are willing to change. Pair with them. Write tests and review each other’s code. Engage in good conversations; share ideas and information. Have fun with them. Once a few people are having fun, working well together, and using different techniques and approaches, more people will want to join.
 
 **Driving Technical Changes**
 
