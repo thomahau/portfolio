@@ -35,6 +35,8 @@ wordpress_id: 119
 
 [The Red Queen: Sex and the Evolution of Human Nature - by Matt Ridley](/books/science/the-red-queen/)
 
+[The Software Craftsman: Professionalism, Pragmatism, Pride - by Sandro Mancuso](/books/science/the-software-craftsman/)
+
 [The Tiger: A True Story of Vengeance and Survival - by John Vaillant](/books/science/the-tiger/)
 
 [This Will Make You Smarter: New Scientific Concepts to Improve Your Thinking - by John Brockman](/books/science/this-will-make-you-smarter/)
