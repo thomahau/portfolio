@@ -24,3 +24,5 @@ wordpress_id: 109
 [The Greatest Minds and Ideas of All Time - by Will Durant](/books/history/the-greatest-minds-and-ideas-of-all-time/)
 
 [The Lessons of History - by Will and Ariel Durant](/books/history/the-lessons-of-history/)
+
+[The Right Stuff - by Tom Wolfe](/books/history/the-right-stuff/)
