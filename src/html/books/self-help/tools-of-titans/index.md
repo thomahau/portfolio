@@ -8,7 +8,7 @@ slug: tools-of-titans
 title: Tools of Titans - by Timothy Ferriss
 ---
 
-## HEALTHY
+### HEALTHY
 
 **RHONDA PERCIAVALLE PATRICK**
 
@@ -75,7 +75,7 @@ Dom noticed that dairy can cause lipid profile issues (e.g., can spike LDL) and 
 - ‘Smash’ your gut (i.e., roll on it) for downregulation before bed with a medicine ball.
 - Internal shoulder rotation is so crucial. Doing the Burgener warmup will help show you if you have full internal rotation of your shoulder.
 
-## WEALTHY
+### WEALTHY
 
 **DEREK SIVERS**
 
@@ -169,7 +169,7 @@ I revisit these questions often, usually every month. I hope they help you remov
 
 - My Challenge to You: Write Down the “What Ifs” Tonight or tomorrow morning, think of a decision you’ve been putting off, and challenge the fuzzy “what ifs” holding you hostage. If not now, when? If left at the status quo, what will your life and stress look like in 6 months? In 1 year? In 3 years? Who around you will also suffer? I hope you find the strength to say “no” when it matters most. I’m striving for the same, and only time will tell if I pull it off. So far, it’s turned out better than I ever could have imagined.
 
-## WISE
+### WISE
 
 **MARIA POPOVA**
 
@@ -287,7 +287,7 @@ Even if you don’t consider yourself a writer (I never did), putting thoughts o
 
 **MALCOLM GLADWELL**
 
-HOW MALCOLM LEARNED TO ASK QUESTIONS His father, a mathematician, taught Malcolm to ask questions upon questions: “My father has zero intellectual insecurities. It has never crossed his mind to be concerned that the world thinks he’s an idiot. He’s not in that game. So if he doesn’t understand something, he just asks you. He doesn’t care if he sounds foolish. He will ask the most obvious question without any sort of concern about it. So he asks lots and lots of ‘dumb,’ in the best sense of that word, questions. He’ll say to someone, ‘I don’t understand. Explain that to me.’ He’ll just keep asking questions until he gets it right, and I grew up listening to him do this in every conceivable setting. [If my father had met Bernie Madoff, he] never would have invested money with him because he would have said, ‘I don’t understand’ a hundred times. ‘I don’t understand how that works,’ in this kind of dumb, slow voice. ‘I don’t understand, sir. What is going on?’”
+**HOW MALCOLM LEARNED TO ASK QUESTIONS** His father, a mathematician, taught Malcolm to ask questions upon questions: “My father has zero intellectual insecurities. It has never crossed his mind to be concerned that the world thinks he’s an idiot. He’s not in that game. So if he doesn’t understand something, he just asks you. He doesn’t care if he sounds foolish. He will ask the most obvious question without any sort of concern about it. So he asks lots and lots of ‘dumb,’ in the best sense of that word, questions. He’ll say to someone, ‘I don’t understand. Explain that to me.’ He’ll just keep asking questions until he gets it right, and I grew up listening to him do this in every conceivable setting. [If my father had met Bernie Madoff, he] never would have invested money with him because he would have said, ‘I don’t understand’ a hundred times. ‘I don’t understand how that works,’ in this kind of dumb, slow voice. ‘I don’t understand, sir. What is going on?’”
 
 **TESTING THE “IMPOSSIBLE”: 17 QUESTIONS THAT CHANGED MY LIFE**
 
