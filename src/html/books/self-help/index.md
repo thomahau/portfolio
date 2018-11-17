@@ -95,6 +95,8 @@ wordpress_id: 183
 
 [Tiny Beautiful Things: Advice on Love and Life from Someone Who's Been There - by Cheryl Strayed](/books/self-help/tiny-beautiful-things/)
 
+[Tools of Titans - by Timothy Ferriss](/books/self-help/tools-of-titans/)
+
 [Unbeatable Mind: Forge Resiliency and Mental Toughness to Succeed at an Elite Level - by Mark Divine](/books/self-help/unbeatable-mind/)
 
 [Undoing Yourself With Energized Meditation & Other Devices - by Christopher S. Hyatt](/books/self-help/undoing-yourself/)
