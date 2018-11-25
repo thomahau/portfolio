@@ -33,6 +33,8 @@ wordpress_id: 119
 
 [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future - by Kevin Kelly](/books/science/the-inevitable/)
 
+[The Pragmatic Programmer: From Journeyman to Master - by Andrew Hunt and David Thomas](/books/science/the-pragmatic-programmer/)
+
 [The Red Queen: Sex and the Evolution of Human Nature - by Matt Ridley](/books/science/the-red-queen/)
 
 [The Software Craftsman: Professionalism, Pragmatism, Pride - by Sandro Mancuso](/books/science/the-software-craftsman/)
