@@ -29,6 +29,8 @@ wordpress_id: 119
 
 [The Blank Slate: The Modern Denial of Human Nature - by Steven Pinker](/books/science/the-blank-slate/)
 
+[The Clean Coder: A Code of Conduct for Professional Programmers - by Robert C. Martin](/books/science/the-clean-coder/)
+
 [The Demon-Haunted World: Science As a Candle In The Dark - by Carl Sagan](/books/science/the-demon-haunted-world/)
 
 [The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future - by Kevin Kelly](/books/science/the-inevitable/)
