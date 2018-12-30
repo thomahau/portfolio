@@ -31,6 +31,8 @@ wordpress_id: 115
 
 [Finite and Infinite Games: A Vision of Life as Play and Possibility - by James Carse](/books/philosophy/finite-and-infinite-games/)
 
+[Hiking with Nietzsche: On Becoming Who You Are - by John Kaag](/books/philosophy/hiking-with-nietzsche/)
+
 [How Adam Smith Can Change Your Life - by Russ Roberts](/books/philosophy/how-adam-smith-can-change-your-life/)
 
 [How to Live: A Life of Montaigne in One Question and Twenty Attempts at An Answer - by Sarah Bakewell](/books/philosophy/how-to-live/)

@@ -35,6 +35,8 @@ wordpress_id: 102
 
 [Getting Results the Agile Way: A Personal Results System for Work and Life - by J.D. Meier](/books/business/getting-results-the-agile-way/)
 
+[Great at Work: How Top Performers Do Less, Work Better, and Achieve More - by Morten T. Hansen](/books/business/great-at-work/)
+
 [HBR Guide to Getting the Right Work Done - by Harvard Business Review](/books/business/hbr-guide-to-getting-the-right-work-done/)
 
 [How Will You Measure Your Life? - by Clayton Christensen](/books/business/how-will-you-measure-your-life/)
