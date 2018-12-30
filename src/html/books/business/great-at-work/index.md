@@ -18,13 +18,14 @@ We often disparage obsessions in our daily lives, viewing them as dangerous or d
 
 _As few as you can, as many as you must._ Instead of asking how many tasks you can tackle given your working hours, ask how many you can ditch given what you must do to excel.
 
-**WHEN YOU SHOULD NOT FOCUS** There are two circumstances when you may want to “do more” and not focus, at least temporarily.
+_WHEN YOU SHOULD NOT FOCUS:_ There are two circumstances when you may want to “do more” and not focus, at least temporarily.
 
 1. When you need to generate many new ideas. When we start a new task, we often don’t know what the best option will be. In this phase, academic research suggests it’s best to generate and consider many ideas.
 2. When you know your options, but are uncertain which to choose.
 
-- Tie yourself to the mast: Set clear rules ahead of time to fend off temptation and distraction. Create a rule as trivial as not allowing yourself to check email for an hour.
-- Say “no” to your boss: Explain to your boss that adding more to your to-do list will hurt your performance. The path to greatness isn’t pleasing your boss all the time. It’s saying “no” so that you can apply intense effort to excel in a few chosen areas.
+Tie yourself to the mast: Set clear rules ahead of time to fend off temptation and distraction. Create a rule as trivial as not allowing yourself to check email for an hour.
+
+Say “no” to your boss: Explain to your boss that adding more to your to-do list will hurt your performance. The path to greatness isn’t pleasing your boss all the time. It’s saying “no” so that you can apply intense effort to excel in a few chosen areas.
 
 **REDESIGN YOUR WORK**
 
