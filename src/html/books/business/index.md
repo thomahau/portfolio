@@ -79,6 +79,8 @@ wordpress_id: 102
 
 [The ONE Thing: The Surprisingly Simple Truth Behind Extraordinary Results - by Gary Keller](/books/business/the-one-thing/)
 
+[The Origin of Wealth: Evolution, Complexity, And the Radical Remaking of Economics - by Eric D. Beinhocker](/books/business/the-origin-of-wealth/)
+
 [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal - by Jim Loehr and Tony Schwartz](/books/business/the-power-of-full-engagement/)
 
 [The Sovereign Individual - by James Dale Davidson and William Rees-Mogg](/books/business/the-sovereign-individual/)

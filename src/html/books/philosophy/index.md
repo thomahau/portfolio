@@ -101,6 +101,8 @@ wordpress_id: 115
 
 [The Road to Character - by David Brooks](/books/philosophy/the-road-to-character/)
 
+[The Tao of Pooh - by Benjamin Hoff](/books/philosophy/the-tao-of-pooh/)
+
 [The Warrior Ethos - by Steven Pressfield](/books/philosophy/the-warrior-ethos/)
 
 [The Way of Men - by Jack Donovan](/books/philosophy/the-way-of-men/)
