@@ -94,34 +94,34 @@ When scientists compare two theories, they do so according to the _correspon­de
 <thead>
 <tr>
 <td></td>
-<td>Complexity Economics</td>
-<td>Traditional Economics</td>
+<td><strong>Complexity Economics</strong></td>
+<td><strong>Traditional Economics</strong></td>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Dynamics</td>
+<td><strong>Dynamics</strong></td>
 <td>Open, dynamic, nonlinear systems, far from equilibrium</td>
 <td>Closed, static, linear systems in equilibrium</td>
 </tr>
 <tr>
-<td>Agents</td>
+<td><strong>Agents</strong></td>
 <td>Modeled individually; use inductive rules of thumb to make decisions; have incomplete information; are subject to errors and biases; learn and adapt over time</td>
 <td>Modeled collectively; use complex deductive calculations to make decisions; have complete information; make no errors and have no biases; have no need for learning or adaptation (are already perfect)</td>
 </tr>
 <tr>
-<td>Networks</td>
+<td><strong>Networks</strong></td>
 <td>Explicitly model interactions between individual agents; networks of relationships change over time</td>
 <td>Assume agents only interact indirectly through market mechanisms
 (e.g., auctions)</td>
 </tr>
 <tr>
-<td>Emergence</td>
+<td><strong>Emergence</strong></td>
 <td>No distinction between micro- and macroeconomics; macro patterns are emergent result of micro-level behaviors and interactions</td>
 <td>Micro- and macroeconomics remain separate disciplines</td>
 </tr>
 <tr>
-<td>Evolution</td>
+<td><strong>Evolution</strong></td>
 <td>The evolutionary process of differentiation, selection, and amplification provides the system with novelty and is responsible for its growth in order and complexity</td>
 <td>No mechanism for endogenously creating novelty, or growth in order and complexity</td>
 </tr>
