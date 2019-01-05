@@ -63,6 +63,8 @@ wordpress_id: 115
 
 [Self-Reliance - by Ralph Waldo Emerson](/books/philosophy/self-reliance/)
 
+[Skin in the Game: Hidden Asymmetries in Daily Life - by Nassim Nicholas Taleb](/books/philosophy/skin-in-the-game/)
+
 [Stoicism and the Art of Happiness - by Donald Robertson](/books/philosophy/stoicism-and-the-art-of-happiness/)
 
 [Tao Te Ching: Annotated & Explained - by Lao Tzu](/books/philosophy/tao-te-ching-annotated-explained/)
