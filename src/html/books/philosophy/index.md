@@ -45,6 +45,8 @@ wordpress_id: 115
 
 [Lying - by Sam Harris](/books/philosophy/lying/)
 
+[Man Alone with Himself - by Friedrich Nietzsche](/books/philosophy/man-alone-with-himself/)
+
 [Maxims and Reflections - by Johann Wolfgang von Goethe](/books/philosophy/maxims-and-reflections/)
 
 [Meditations - by Marcus Aurelius](/books/philosophy/meditations/)
