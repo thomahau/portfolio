@@ -59,6 +59,8 @@ wordpress_id: 104
 
 [On the Road - by Jack Kerouac](/books/fiction/on-the-road/)
 
+[Outline: A Novel - by Rachel Cusk](/books/fiction/outline/)
+
 [Shibumi - by Trevanian](/books/fiction/shibumi/)
 
 [Siddhartha - by Hermann Hesse](/books/fiction/siddhartha/)
@@ -66,6 +68,8 @@ wordpress_id: 104
 [Steppenwolf - by Hermann Hesse](/books/fiction/steppenwolf/)
 
 [Stoner - by John Williams](/books/fiction/stoner/)
+
+[The Book of Disquiet - by Fernando Pessoa](/books/fiction/the-book-of-disquiet/)
 
 [The Contortionist's Handbook - by Craig Clevenger](/books/fiction/the-contortionists-handbook/)
 
