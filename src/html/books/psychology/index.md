@@ -77,6 +77,8 @@ wordpress_id: 117
 
 [The Art of Taking Action: Lessons from Japanese Psychology - by Gregg Krech](/books/psychology/the-art-of-taking-action/)
 
+[The Courage to Be Disliked - by Ichiro Kishimi and Fumitake Koga](/books/psychology/the-courage-to-be-disliked/)
+
 [The Gift of Fear - by Gavin de Becker](/books/psychology/the-gift-of-fear/)
 
 [The Happiness Advantage: The Seven Principles of Positive Psychology That Fuel Success and Performance at Work - by Shawn Achor](/books/psychology/the-happiness-advantage/)
