@@ -172,11 +172,7 @@ One cannot change what one is born with. But one can, under one’s own power, g
 
 Here, I will consider the words “believing in others” in the context of distinguishing trust from confidence. First, when we speak of trust, we are referring to something that comes with set conditions. We refer to it as credit. For example, when one wants to borrow money from a bank, one has to have some kind of security. The bank calculates the amount of the loan based on the value of that security, and says, “We will lend you this much.” The attitude of “We will lend it to you on the condition that you will pay it back” or “We will lend you as much as you are able to pay back” is not one of having confidence in someone. It is trust.
 
-By contrast, from the standpoint of Adlerian psychology, the basis of interpersonal relations is founded not on trust but on confidence.
-
-By contrast, from the standpoint of Adlerian psychology, the basis of interpersonal relations is founded not on trust but on confidence.  
-_YOUTH:_ And “confidence” in this case is...?  
-_PHILOSOPHER:_ It is doing without any set conditions whatsoever when believing in others. Even if one does not have sufficient objective grounds for trusting someone, one believes. One believes unconditionally without concerning oneself with such things as security. That is confidence.
+By contrast, from the standpoint of Adlerian psychology, the basis of interpersonal relations is founded not on trust but on confidence. Confidence in this case is doing without any set conditions whatsoever when believing in others. Even if one does not have sufficient objective grounds for trusting someone, one believes. One believes unconditionally without concerning oneself with such things as security. That is confidence.
 
 Of course, if one believes in others without setting any conditions whatsoever, there will be times when one gets taken advantage of. Just like the guarantor of a debt, there are times when one may suffer damages. The attitude of continuing to believe in someone even in such instances is what we call confidence.
 
