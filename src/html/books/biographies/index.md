@@ -13,6 +13,8 @@ wordpress_id: 100
 
 [Education of a Wandering Man - by Louis L'Amour](/books/biographies/education-of-a-wandering-man/)
 
+[Life in Code - by Ellen Ullman](/books/biographies/life-in-code/)
+
 [On the Move: A Life - by Oliver Sacks](/books/biographies/on-the-move/)
 
 [Ongoingness: The End of a Diary - by Sarah Manguso](/books/biographies/ongoingness/)
@@ -34,6 +36,8 @@ wordpress_id: 100
 [Titan - by Ron Chernow](/books/biographies/titan/)
 
 [Total Recall: My Unbelievably True Life Story - by Arnold Schwarzenegger](/books/biographies/total-recall/)
+
+[Trip: Psychedelics, Alienation, and Change - by Tao Lin](/books/biographies/trip/)
 
 [What I Talk About When I Talk About Running - by Haruki Murakami](/books/biographies/what-i-talk-about-when-i-talk-about-running/)
 
