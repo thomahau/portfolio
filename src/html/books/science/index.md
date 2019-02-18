@@ -17,6 +17,8 @@ wordpress_id: 119
 
 [Fooling Houdini - by Alex Stone](/books/science/fooling-houdini/)
 
+[Life 3.0: Being Human in the Age of Artificial Intelligence - by Max Tegmark](/books/science/life-3-0/)
+
 [Manthropology: The Science of Why the Modern Male Is Not the Man He Used to Be - by Peter McAllister](/books/science/manthropology/)
 
 [Sex at Dawn: How We Mate, Why We Stray, and What It Means for Modern Relationships - by Christopher Ryan](/books/science/sex-at-dawn/)
