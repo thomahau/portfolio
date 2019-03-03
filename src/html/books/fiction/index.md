@@ -77,6 +77,8 @@ wordpress_id: 104
 
 [The Dharma Bums - by Jack Kerouac](/books/fiction/the-dharma-bums/)
 
+[The Diamond Age - by Neal Stephenson](/books/fiction/the-diamond-age/)
+
 [The Glass Bead Game - by Hermann Hesse](/books/fiction/the-glass-bead-game/)
 
 [The Gnoll Credo - by J. Stanton](/books/fiction/the-gnoll-credo/)
