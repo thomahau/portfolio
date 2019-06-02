@@ -69,6 +69,8 @@ wordpress_id: 115
 
 [Stoicism and the Art of Happiness - by Donald Robertson](/books/philosophy/stoicism-and-the-art-of-happiness/)
 
+[Straw Dogs: Thoughts On Humans And Other Animals - by John Gray](/books/philosophy/straw-dogs/)
+
 [Tao Te Ching: Annotated & Explained - by Lao Tzu](/books/philosophy/tao-te-ching-annotated-explained/)
 
 [The Art of Living: The Classical Mannual on Virtue, Happiness, and Effectiveness - by Sharon Lebell](/books/philosophy/the-art-of-living/)
