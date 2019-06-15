@@ -11,6 +11,8 @@ wordpress_id: 119
 
 [Algorithms to Live By: The Computer Science of Human Decisions - by Brian Christian and Tom Griffiths](/books/science/algorithms-to-live-by/)
 
+[Coders: The Making of a New Tribe and the Remaking of the World - by Clive Thompson](/books/science/coders/)
+
 [Deep: Freediving, Renegade Science and What the Ocean Tells Us About Ourselves - by James Nestor](/books/science/deep/)
 
 [Everything is Obvious: Once You Know the Answer - by Duncan J. Watts](/books/science/everything-is-obvious/)

@@ -47,6 +47,8 @@ wordpress_id: 104
 
 [Look Homeward, Angel: A Story of the Buried Life - by Thomas Wolfe](/books/fiction/look-homeward-angel/)
 
+[Machines Like Me - by Ian McEwan](/books/fiction/machines-like-me/)
+
 [Moby Dick - by Herman Melville](/books/fiction/moby-dick/)
 
 [Money - by Martin Amis](/books/fiction/money/)

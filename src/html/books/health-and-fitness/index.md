@@ -15,6 +15,8 @@ wordpress_id: 106
 
 [In Pursuit of Excellence, Fourth Edition - by Terry Orlick](/books/health-and-fitness/in-pursuit-of-excellence/)
 
+[Move Your DNA: Restore Your Health Through Natural Movement - by Katy Bowman](/books/health-and-fitness/move-your-dna/)
+
 [Never Let Go: A Philosophy of Lifting, Living and Learning - by Dan John](/books/health-and-fitness/never-let-go/)
 
 [Perfect Health Diet: Regain Health and Lose Weight by Eating the Way You Were Meant to Eat - by Paul Jaminet](/books/health-and-fitness/perfect-health-diet/)

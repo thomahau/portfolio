@@ -144,9 +144,10 @@ section img {
 
   .navigation-wrapper {
     width: 13%;
-    height: 186px;
+    height: 189px;
     position: sticky;
     top: 9px;
+    border-bottom: none;
   }
 
   .main-wrapper {
@@ -170,7 +171,7 @@ section img {
   nav a {
     text-align: left;
     padding: 10px 0 10px 15px;
-    border-bottom: 5px solid black;
+    border-bottom: 5px solid black !important;
     border-right: none;
   }
 
@@ -235,7 +236,7 @@ section img {
   background-color: #fffc94;
 }
 .algolia-autocomplete .aa-dropdown-menu .aa-suggestion em {
-  font-weight: bold;
+  font-weight: 700;
   font-style: normal;
 }
 @media only screen and (max-width: 425px) {
