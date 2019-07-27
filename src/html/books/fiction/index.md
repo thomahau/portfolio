@@ -111,7 +111,7 @@ wordpress_id: 104
 
 [Tropic of Capricorn - by Henry Miller](/books/fiction/tropic-of-capricorn/)
 
-[We Are All Completely Beside Ourselves - by Karen Joy Fowler](/books/fiction/island/)
+[We Are All Completely Beside Ourselves - by Karen Joy Fowler](/books/fiction/we-are-all-completely-beside-ourselves/)
 
 [Youth, a Narrative - by Joseph Conrad](/books/fiction/we-are-all-completely-beside-ourselves/)
 

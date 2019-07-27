@@ -20,6 +20,8 @@ You've got to say in the comment something that's not there already. What's it f
 
 I think one thing that's really important is to not be afraid of your ignorance. If you don't understand how something works, ask someone who does. A lot of people are skittish about that. And that doesn't help anybody. Not knowing something doesn't mean you're dumb—it just means you don't know it yet.
 
+---
+
 **Brad Fitzpatrick**
 
 **Seibel:** Do you have any advice for self-taught programmers?
@@ -39,6 +41,8 @@ I start too many projects. I finish them because I have guilt if I don't finish 
 **Seibel:** What do you think is the most important skill for a programmer to have?
 
 **Fitzpatrick:** Thinking like a scientist; changing one thing at a time. Patience and trying to understand the root cause of things. Especially when you're debugging something or designing something that's not quite working. I've seen young programmers say, “Oh, shit, it doesn't work,” and then rewrite it all. Stop. Try to figure out what's going on. Learn how to write things incrementally so that at each stage you could verify it.
+
+---
 
 **Douglas Crockford**
 
@@ -64,9 +68,13 @@ I want people who can write, because we spend a lot of time writing to each othe
 
 **Crockford:** I agree with that one.
 
+---
+
 **Brendan Eich**
 
 When I was an undergrad I was really affected by Pirsig's _Zen and the Art of Motorcycle Maintenance_. And I had been going through Plato and the early philosophers. I was, at that point, inclined more towards idealism in some philosophical sense. I thought little-endian byte order was superior to big-endian, because after all, the least significant digits are in the lowest address—there was some kind of harmony or geometry in that. But try reading a hex dump. Practical things matter; particulars matter. The famous School of Athens painting with Aristotle pointing down and Plato pointing up—I'm more on the pointing-down side now. As I get older I get more and more skeptical and more and more interested in what works. When I'm interviewing people, when I'm looking for talent, it's very hard for me to not stick with particulars and practicalities.
+
+---
 
 **Joshua Bloch**
 
@@ -99,6 +107,8 @@ As I write the program, I say to myself, what it is that must be true here? And 
 **Seibel:** Is that for the feedback you get or just for the chance to talk it through?
 
 **Bloch:** Both. There's so much craft in what we do—it's often the case that there's no one right solution, or if there is, it's not apparent until you've used it. You have to go from the gut and talking to someone with a different perspective can be very helpful. I've known people who don't feel this way—who are willing to program in a vacuum. I think it hurts them. You will discover your bugs earlier—you really want to discover problems with a design long before it hits the point of code. So when you're wrestling with different approaches or even different features—should I support this and this or simply that—you just have to bounce it off other people. On the other hand, you can't take what each person says as gospel because you'll get conflicting opinions, and ultimately, you are responsible for your own work.
+
+---
 
 **Joe Armstrong**
 
@@ -138,6 +148,8 @@ As I write the program, I say to myself, what it is that must be true here? And 
 
 **Armstrong:** Choice of problem, I think. Are you driven by the problems or by the solutions? I tend to favor the people who say, “I've got this really interesting problem.” Then you ask, “What was the most fun project you ever wrote; show me the code for this stuff. How would you solve this problem?” I'm not so hung up on what they know about language X or Y. From what I've seen of programmers, they're either good at all languages or good at none. The guy who's a good C programmer will be good at Erlang—it's an incredibly good predictor. I have seen exceptions to that but the mental skills necessary to be good at one language seem to convert to other languages.
 
+---
+
 **Simon Peyton Jones**
 
 **Seibel:** What is programming to you? Do you think of yourself as a scientist or an engineer or a craftsman? Or something else entirely?
@@ -145,6 +157,8 @@ As I write the program, I say to myself, what it is that must be true here? And 
 **Peyton Jones:** Have you read Fred Brooks's paper about this, the one called, “_The Computer Scientist as Toolsmith_”? I reread it recently. It's very nice. I think it's good to remember that we're concerned with building things. I think that's why programming is so interesting. At the same time I'm really keen on trying to extract principles of enduring value. I have a paper about how to write a good paper or give a good research talk and one of the high-order bits is, don't describe an artifact. An artifact is an implementation of an idea. What is the idea, the reusable brain-thing that you're trying to transfer into the minds of your listeners? There's something that's useful to them. It's the business of academics, I think, to abstract reusable ideas from concrete artifacts. Now that's still not science in the sense of discovering laws. But it is a kind of abstraction into reusable thought-stuff out of the morass of real life that I think is very important.
 
 The most depressing thing about life as a programmer, I think, is if you're faced with a chunk of code that either someone else wrote or, worse still, you wrote yourself but you no longer dare to modify. That's depressing.
+
+---
 
 **Peter Norvig**
 
@@ -172,9 +186,13 @@ The most depressing thing about life as a programmer, I think, is if you're face
 
 **Norvig:** I think it was something that had always been done and so people accept it. Well, I shouldn't say that completely. Some people it takes a while to get used to it. One of the typical failure cases is a new hire comes in and they're not used to doing this kind of thing so they just start an experimental branch and they have all their code in there and you keep on telling them, “Gee, you don't have any check-ins yet.” And they say, “Yeah, yeah, yeah, I'm just cleaning it up—I'll check it in tomorrow.” And then another week goes by and another week goes by and eventually they have this one gigantic check-in. And then it's a problem that too much time has gone by, it's hard to evaluate it all at once, and some of the things they're comparing against have changed out from underneath them. Then they see what a headache it is and they learn not to do that.
 
+---
+
 **Ken Thompson**
 
 Some people write fragile code and some people write very structurally sound code, and this is a condition of people. I think in almost any language you can write fragile code. My definition of fragile code is, suppose you want to add a feature—good code, there's one place where you add that feature and it fits; fragile code, you've got to touch ten places.
+
+---
 
 **Bernie Cosell**
 
@@ -193,6 +211,8 @@ The other rule is to realize that programs are meant to be read. Even though I'm
 **Seibel:** Did you have particular rules for how much or how little to comment?
 
 **Cosell:** I don't put a lot of comments in my code because I think you should be writing your code so that it is readable and your algorithms and thoughts are clear in the code. I put comments that say this routine is supposed to do this, and usually some description of how you call it—what do you do when you get exceptions, what the order of the arguments is, and things like that. But the code itself should clearly express what you are doing. The only place I tend to put comments in my code is when my instinct says, “This particular piece of code, even though it works, doesn't clearly state what I'm trying to accomplish.”
+
+---
 
 **Donald Knuth**
 
