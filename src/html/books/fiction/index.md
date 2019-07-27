@@ -27,6 +27,8 @@ wordpress_id: 104
 
 [Demian - by Hermann Hesse](/books/fiction/demian/)
 
+[Downtown Owl - by Chuck Klosterman](/books/fiction/downtown-owl/)
+
 [Dune - by Frank Herbert](/books/fiction/dune/)
 
 [For Whom the Bell Tolls - by Ernest Hemingway](/books/fiction/for-whom-the-bell-tolls/)
@@ -109,6 +111,8 @@ wordpress_id: 104
 
 [Tropic of Capricorn - by Henry Miller](/books/fiction/tropic-of-capricorn/)
 
-[Youth, a Narrative - by Joseph Conrad](/books/fiction/youth/)
+[We Are All Completely Beside Ourselves - by Karen Joy Fowler](/books/fiction/island/)
+
+[Youth, a Narrative - by Joseph Conrad](/books/fiction/we-are-all-completely-beside-ourselves/)
 
 [Zorba the Greek - by Nikos Kazantzakis](/books/fiction/zorba-the-greek/)
