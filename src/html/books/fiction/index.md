@@ -31,11 +31,15 @@ wordpress_id: 104
 
 [Dune - by Frank Herbert](/books/fiction/dune/)
 
+[Enduring Love - by Ian McEwan](/books/fiction/enduring-love/)
+
 [For Whom the Bell Tolls - by Ernest Hemingway](/books/fiction/for-whom-the-bell-tolls/)
 
 [Hard-Boiled Wonderland And The End Of The World - by Haruki Murakami](/books/fiction/hard-boiled-wonderland-and-the-end-of-the-world/)
 
 [How To Get Filthy Rich In Rising Asia - by Mohsin Hamid](/books/fiction/how-to-get-filthy-rich-in-rising-asia/)
+
+[I Am Charlotte Simmons - by Tom Wolfe](/books/fiction/i-am-charlotte-simmons/)
 
 [If On A Winter's Night A Traveller - by Italo Calvino](/books/fiction/if-on-a-winters-night-a-traveller/)
 
@@ -106,6 +110,8 @@ wordpress_id: 104
 [The Sheltering Sky - by Paul Bowles](/books/fiction/the-sheltering-sky/)
 
 [The Sun Also Rises - by Ernest Hemingway](/books/fiction/the-sun-also-rises/)
+
+[Thinks... - by David Lodge](/books/fiction/thinks/)
 
 [Tropic of Cancer - by Henry Miller](/books/fiction/tropic-of-cancer/)
 
