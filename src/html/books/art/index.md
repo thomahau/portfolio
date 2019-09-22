@@ -26,3 +26,5 @@ wordpress_id: 98
 [The Rise - by Sarah Lewis](/books/art/the-rise/)
 
 [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles - by Steven Pressfield](/books/art/the-war-of-art/)
+
+[Truth in Comedy: The Manual for Improvisation - by Charna Halpern, Del Close](/books/art/truth-in-comedy/)
