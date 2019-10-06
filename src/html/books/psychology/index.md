@@ -93,6 +93,8 @@ wordpress_id: 117
 
 [The Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys - by James Fadiman Ph.D.](/books/psychology/the-psychedelic-explorers-guide/)
 
+[The Robot's Rebellion: Finding Meaning in the Age of Darwin - by Keith E. Stanovich](/books/psychology/the-robots-rebellion/)
+
 [The Time Paradox - by Philip Zimbardo](/books/psychology/the-time-paradox/)
 
 [The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It - by Kelly McGonigal](/books/psychology/the-willpower-instinct/)
