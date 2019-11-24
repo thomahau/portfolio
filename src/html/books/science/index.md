@@ -45,6 +45,8 @@ wordpress_id: 119
 
 [The Red Queen: Sex and the Evolution of Human Nature - by Matt Ridley](/books/science/the-red-queen/)
 
+[The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter - by Joseph Henrich](/books/science/the-secret-of-our-success/)
+
 [The Software Craftsman: Professionalism, Pragmatism, Pride - by Sandro Mancuso](/books/science/the-software-craftsman/)
 
 [The Tiger: A True Story of Vengeance and Survival - by John Vaillant](/books/science/the-tiger/)

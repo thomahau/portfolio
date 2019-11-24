@@ -77,6 +77,8 @@ wordpress_id: 104
 
 [Stoner - by John Williams](/books/fiction/stoner/)
 
+[Submission - by Michel Houellebecq](/books/fiction/submission/)
+
 [The Book of Disquiet - by Fernando Pessoa](/books/fiction/the-book-of-disquiet/)
 
 [The Contortionist's Handbook - by Craig Clevenger](/books/fiction/the-contortionists-handbook/)
