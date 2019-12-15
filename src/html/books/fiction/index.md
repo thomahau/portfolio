@@ -61,6 +61,8 @@ wordpress_id: 104
 
 [My Struggle: Book One - by Karl Ove Knausgaard](/books/fiction/my-struggle-book-one/)
 
+[My Struggle: Book 6 - by Karl Ove Knausgaard](/books/fiction/my-struggle-book-six/)
+
 [Narcissus and Goldmund - by Hermann Hesse](/books/fiction/narcissus-and-goldmund/)
 
 [Norwegian Wood - by Haruki Murakami](/books/fiction/norwegian-wood/)
@@ -72,6 +74,8 @@ wordpress_id: 104
 [Shibumi - by Trevanian](/books/fiction/shibumi/)
 
 [Siddhartha - by Hermann Hesse](/books/fiction/siddhartha/)
+
+[Some Rain Must Fall - by Karl Ove Knausgaard](/books/fiction/some-rain-must-fall/)
 
 [Steppenwolf - by Hermann Hesse](/books/fiction/steppenwolf/)
 
@@ -96,6 +100,8 @@ wordpress_id: 104
 [The Last Samurai - by Helen Dewitt](/books/fiction/the-last-samurai/)
 
 [The Magus - by John Fowles](/books/fiction/the-magus/)
+
+[The Mandibles - by Lionel Shriver](/books/fiction/the-mandibles/)
 
 [The Moviegoer - by Walker Percy](/books/fiction/the-moviegoer/)
 
