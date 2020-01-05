@@ -45,6 +45,8 @@ wordpress_id: 115
 
 [Letters from a Stoic - by Seneca](/books/philosophy/letters-from-a-stoic/)
 
+[Liquid Modernity - by Zygmunt Bauman](/books/philosophy/liquid-modernity/)
+
 [Lying - by Sam Harris](/books/philosophy/lying/)
 
 [Man Alone with Himself - by Friedrich Nietzsche](/books/philosophy/man-alone-with-himself/)
@@ -62,6 +64,8 @@ wordpress_id: 115
 [Philosophy As a Way of Life: Spiritual Exercises from Socrates to Foucault - by Pierre Hadot](/books/philosophy/philosophy-as-a-way-of-life/)
 
 [Reflections; or Sentences and Moral Maxims - by François de La Rochefoucauld](/books/philosophy/reflections/)
+
+[Religion for Atheists - by Alain de Botton](/books/philosophy/religion-for-atheists/)
 
 [Seeking Wisdom: From Darwin To Munger - by Peter Bevelin](/books/philosophy/seeking-wisdom/)
 

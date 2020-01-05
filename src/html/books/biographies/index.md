@@ -23,6 +23,8 @@ wordpress_id: 100
 
 [Stanley - by Tim Jeal](/books/biographies/stanley/)
 
+[Sun and Steel - by Yukio Mishima](/books/biographies/sun-and-steel/)
+
 [The Autobiography of Benjamin Franklin - by Benjamin Franklin](/books/biographies/the-autobiography-of-benjamin-franklin/)
 
 [The Fish that Ate the Whale: The Life and Times of America's Banana King - by Rich Cohen](/books/biographies/the-fish-that-ate-the-whale/)

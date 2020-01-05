@@ -33,6 +33,8 @@ wordpress_id: 104
 
 [Enduring Love - by Ian McEwan](/books/fiction/enduring-love/)
 
+[Exhalation - by Ted Chiang](/books/fiction/exhalation/)
+
 [For Whom the Bell Tolls - by Ernest Hemingway](/books/fiction/for-whom-the-bell-tolls/)
 
 [Hard-Boiled Wonderland And The End Of The World - by Haruki Murakami](/books/fiction/hard-boiled-wonderland-and-the-end-of-the-world/)
