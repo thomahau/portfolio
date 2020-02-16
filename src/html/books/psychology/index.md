@@ -91,6 +91,8 @@ wordpress_id: 117
 
 [The Moral Animal: Why We Are the Way We Are: The New Science of Evolutionary Psychology - by Robert Wright](/books/psychology/the-moral-animal/)
 
+[The Origin of Consciousness in the Breakdown of the Bicameral Mind - by Julian Jaynes](/books/psychology/origin-consciousness-breakdown-bicameral-mind/)
+
 [The Psychedelic Explorer's Guide: Safe, Therapeutic, and Sacred Journeys - by James Fadiman Ph.D.](/books/psychology/the-psychedelic-explorers-guide/)
 
 [The Robot's Rebellion: Finding Meaning in the Age of Darwin - by Keith E. Stanovich](/books/psychology/the-robots-rebellion/)
