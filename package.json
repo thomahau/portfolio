@@ -14,7 +14,7 @@
     "dotenv": "^6.1.0",
     "handlebars": "^4.1.2",
     "jstransformer-handlebars": "^1.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "metalsmith": "^2.3.0",
     "metalsmith-algolia": "^0.1.0",
     "metalsmith-assets": "^0.1.0",
