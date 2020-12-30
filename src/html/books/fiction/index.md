@@ -73,6 +73,8 @@ wordpress_id: 104
 
 [Outline: A Novel - by Rachel Cusk](/books/fiction/outline/)
 
+[Point Counter Point - by Aldous Huxley](/books/fiction/point-counter-point/)
+
 [Shibumi - by Trevanian](/books/fiction/shibumi/)
 
 [Siddhartha - by Hermann Hesse](/books/fiction/siddhartha/)
@@ -95,6 +97,8 @@ wordpress_id: 104
 
 [The Diamond Age - by Neal Stephenson](/books/fiction/the-diamond-age/)
 
+[The Elementary Particles - by Michel Houellebecq](/books/fiction/the-elementary-particles/)
+
 [The Glass Bead Game - by Hermann Hesse](/books/fiction/the-glass-bead-game/)
 
 [The Gnoll Credo - by J. Stanton](/books/fiction/the-gnoll-credo/)
@@ -104,6 +108,8 @@ wordpress_id: 104
 [The Magus - by John Fowles](/books/fiction/the-magus/)
 
 [The Mandibles - by Lionel Shriver](/books/fiction/the-mandibles/)
+
+[The Mind-Body Problem - by Rebecca Goldstein](/books/fiction/the-mind-body-problem/)
 
 [The Moviegoer - by Walker Percy](/books/fiction/the-moviegoer/)
 

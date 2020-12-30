@@ -31,6 +31,8 @@ wordpress_id: 119
 
 [Superintelligence - by Nick Bostrom](/books/science/superintelligence/)
 
+[The AI Does Not Hate You: Superintelligence, Rationality and the Race to Save the World - by Tom Chivers](/books/science/the-ai-does-not-hate-you/)
+
 [The Beginning of Infinity - by David Deutsch](/books/science/the-beginning-of-infinity/)
 
 [The Blank Slate: The Modern Denial of Human Nature - by Steven Pinker](/books/science/the-blank-slate/)
