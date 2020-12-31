@@ -9,6 +9,8 @@ title: HISTORY
 wordpress_id: 109
 ---
 
+[Guns, Germs, and Steel: The Fates of Human Societies - by Jared M. Diamond](/books/history/guns-germs-and-steel/)
+
 [Homo Deus - by Yuval Noah Harari](/books/history/homo-deus/)
 
 [How Should We Live?: Great Ideas from the Past for Everyday Life - by Roman Krznaric](/books/history/how-should-we-live/)

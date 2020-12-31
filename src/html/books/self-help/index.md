@@ -33,8 +33,6 @@ wordpress_id: 183
 
 [Mindfulness: A practical guide to finding peace in a frantic world - by Mark Williams](/books/self-help/mindfulness/)
 
-[Models: Attract Women Through Honesty - by Mark Manson](/books/self-help/models/)
-
 [New Psycho-Cybernetics - by Maxwell Maltz](/books/self-help/new-psycho-cybernetics/)
 
 [No More Mr. Nice Guy! - by Robert Glover](/books/self-help/no-more-mr-nice-guy/)
